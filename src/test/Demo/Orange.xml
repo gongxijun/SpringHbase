@@ -7,8 +7,5 @@
         <property name="name" ref="Bookname"/>
     </bean>
 
-    <bean id="Bookname" class="java.lang.String">
-        <property name>"橘子"</property>
-    </bean>
 
 </beans>
