@@ -1,0 +1,439 @@
+2016-07-21 16:22:56.655 [main] INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@10dd4b9d: startup date [Thu Jul 21 16:22:56 CST 2016]; root of context hierarchy
+2016-07-21 16:22:56.866 [main] INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [Demo/Orange.xml]
+2016-07-21 16:22:57.759 [main] INFO  o.s.b.f.s.DefaultListableBeanFactory - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2b072375: defining beans [Orange]; root of factory hierarchy
+2016-07-21 16:32:54.119 [main] INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@745bbff2: startup date [Thu Jul 21 16:32:54 CST 2016]; root of context hierarchy
+2016-07-21 16:32:54.248 [main] INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [Demo/Orange.xml]
+2016-07-21 16:32:54.950 [main] INFO  o.s.b.f.s.DefaultListableBeanFactory - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2ea866d6: defining beans [orangeId]; root of factory hierarchy
+2016-07-21 16:33:16.774 [main] INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@14a61465: startup date [Thu Jul 21 16:33:16 CST 2016]; root of context hierarchy
+2016-07-21 16:33:16.877 [main] INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [Demo/Orange.xml]
+2016-07-21 16:33:17.625 [main] INFO  o.s.b.f.s.DefaultListableBeanFactory - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@70dc6f58: defining beans [orangeId]; root of factory hierarchy
+2016-07-21 16:45:05.181 [main] INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3396e48c: startup date [Thu Jul 21 16:45:05 CST 2016]; root of context hierarchy
+2016-07-21 16:45:05.454 [main] INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [Demo/Orange.xml]
+2016-07-21 16:45:06.088 [main] INFO  o.s.b.f.s.DefaultListableBeanFactory - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@365de953: defining beans [orangeId]; root of factory hierarchy
+2016-07-21 16:45:37.825 [main] INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@308f3911: startup date [Thu Jul 21 16:45:37 CST 2016]; root of context hierarchy
+2016-07-21 16:45:37.971 [main] INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [Demo/Orange.xml]
+2016-07-21 16:45:38.840 [main] INFO  o.s.b.f.s.DefaultListableBeanFactory - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@365de953: defining beans [orangeId]; root of factory hierarchy
+2016-07-21 20:43:18.642 [main] INFO  o.s.c.a.ClassPathBeanDefinitionScanner - JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+2016-07-21 20:43:18.694 [main] INFO  o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@2a2eeff0: startup date [Thu Jul 21 20:43:18 CST 2016]; root of context hierarchy
+2016-07-21 20:43:18.803 [main] INFO  o.s.c.a.ClassPathBeanDefinitionScanner - JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+2016-07-21 20:43:19.324 [main] INFO  o.s.b.f.s.DefaultListableBeanFactory - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@17805c6: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,appConfigA,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.cache.annotation.ProxyCachingConfiguration,org.springframework.cache.config.internalCacheAdvisor,cacheOperationSource,cacheInterceptor,cacheManager]; root of factory hierarchy
+2016-07-21 20:43:19.425 [main] INFO  o.s.b.f.s.DefaultListableBeanFactory - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@17805c6: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,appConfigA,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.cache.annotation.ProxyCachingConfiguration,org.springframework.cache.config.internalCacheAdvisor,cacheOperationSource,cacheInterceptor,cacheManager]; root of factory hierarchy
+2016-07-21 20:44:39.464 [main] INFO  o.s.c.a.ClassPathBeanDefinitionScanner - JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+2016-07-21 20:44:39.540 [main] INFO  o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5316d7bd: startup date [Thu Jul 21 20:44:39 CST 2016]; root of context hierarchy
+2016-07-21 20:44:39.619 [main] INFO  o.s.c.a.ClassPathBeanDefinitionScanner - JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+2016-07-21 20:44:40.037 [main] INFO  o.s.b.f.s.DefaultListableBeanFactory - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@baf767d: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,appConfigA,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.cache.annotation.ProxyCachingConfiguration,org.springframework.cache.config.internalCacheAdvisor,cacheOperationSource,cacheInterceptor,cacheManager]; root of factory hierarchy
+2016-07-21 20:44:40.121 [main] INFO  o.s.b.f.s.DefaultListableBeanFactory - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@baf767d: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,appConfigA,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.cache.annotation.ProxyCachingConfiguration,org.springframework.cache.config.internalCacheAdvisor,cacheOperationSource,cacheInterceptor,cacheManager]; root of factory hierarchy
+2016-07-21 20:49:27.364 [main] INFO  o.s.c.a.ClassPathBeanDefinitionScanner - JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+2016-07-21 20:49:27.450 [main] INFO  o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5316d7bd: startup date [Thu Jul 21 20:49:27 CST 2016]; root of context hierarchy
+2016-07-21 20:49:27.534 [main] INFO  o.s.c.a.ClassPathBeanDefinitionScanner - JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+2016-07-21 20:49:27.954 [main] INFO  o.s.b.f.s.DefaultListableBeanFactory - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@baf767d: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,appConfigA,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.cache.annotation.ProxyCachingConfiguration,org.springframework.cache.config.internalCacheAdvisor,cacheOperationSource,cacheInterceptor,cacheManager]; root of factory hierarchy
+2016-07-21 20:49:28.045 [main] INFO  o.s.b.f.s.DefaultListableBeanFactory - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@baf767d: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,appConfigA,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.cache.annotation.ProxyCachingConfiguration,org.springframework.cache.config.internalCacheAdvisor,cacheOperationSource,cacheInterceptor,cacheManager]; root of factory hierarchy
+2016-07-21 20:53:04.622 [main] INFO  o.s.c.a.ClassPathBeanDefinitionScanner - JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+2016-07-21 20:53:04.665 [main] INFO  o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@184dd658: startup date [Thu Jul 21 20:53:04 CST 2016]; root of context hierarchy
+2016-07-21 20:53:04.737 [main] INFO  o.s.c.a.ClassPathBeanDefinitionScanner - JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+2016-07-21 20:53:05.180 [main] INFO  o.s.b.f.s.DefaultListableBeanFactory - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@1f0e5b38: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,appConfigA,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.cache.annotation.ProxyCachingConfiguration,org.springframework.cache.config.internalCacheAdvisor,cacheOperationSource,cacheInterceptor,cacheManager]; root of factory hierarchy
+2016-07-21 20:53:05.423 [main] INFO  o.s.b.f.s.DefaultListableBeanFactory - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@1f0e5b38: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,appConfigA,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.cache.annotation.ProxyCachingConfiguration,org.springframework.cache.config.internalCacheAdvisor,cacheOperationSource,cacheInterceptor,cacheManager]; root of factory hierarchy
+2016-07-21 20:53:53.630 [main] INFO  o.s.c.a.ClassPathBeanDefinitionScanner - JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+2016-07-21 20:53:53.678 [main] INFO  o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5316d7bd: startup date [Thu Jul 21 20:53:53 CST 2016]; root of context hierarchy
+2016-07-21 20:53:53.767 [main] INFO  o.s.c.a.ClassPathBeanDefinitionScanner - JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+2016-07-21 20:53:54.354 [main] INFO  o.s.b.f.s.DefaultListableBeanFactory - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@baf767d: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,appConfigA,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.cache.annotation.ProxyCachingConfiguration,org.springframework.cache.config.internalCacheAdvisor,cacheOperationSource,cacheInterceptor,cacheManager]; root of factory hierarchy
+2016-07-21 20:53:54.578 [main] INFO  o.s.b.f.s.DefaultListableBeanFactory - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@baf767d: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,appConfigA,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.cache.annotation.ProxyCachingConfiguration,org.springframework.cache.config.internalCacheAdvisor,cacheOperationSource,cacheInterceptor,cacheManager]; root of factory hierarchy
+2016-07-21 20:59:40.573 [main] INFO  o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@18520fa4: startup date [Thu Jul 21 20:59:40 CST 2016]; root of context hierarchy
+2016-07-21 20:59:41.482 [main] WARN  o.s.c.a.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cacheManager' defined in com.qunar.guavaDemo.cache.AppConfigA: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.cache.CacheManager]: Factory method 'cacheManager' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/cache/support/AbstractValueAdaptingCache
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:599) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1111) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1006) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:504) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:303) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:299) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:194) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:755) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:757) ~[spring-context-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480) ~[spring-context-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at com.qunar.guavaDemo.cache.CacheDemoA.main(CacheDemoA.java:14) [classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_40]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[na:1.7.0_40]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.7.0_40]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[na:1.7.0_40]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:na]
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.cache.CacheManager]: Factory method 'cacheManager' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/cache/support/AbstractValueAdaptingCache
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:189) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:588) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	... 17 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: org/springframework/cache/support/AbstractValueAdaptingCache
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[na:1.7.0_40]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:792) ~[na:1.7.0_40]
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142) ~[na:1.7.0_40]
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:449) ~[na:1.7.0_40]
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:71) ~[na:1.7.0_40]
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:361) ~[na:1.7.0_40]
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355) ~[na:1.7.0_40]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.7.0_40]
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354) ~[na:1.7.0_40]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[na:1.7.0_40]
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308) ~[na:1.7.0_40]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[na:1.7.0_40]
+	at org.springframework.cache.guava.GuavaCacheManager.createGuavaCache(GuavaCacheManager.java:196) ~[spring-context-support-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.springframework.cache.guava.GuavaCacheManager.setCacheNames(GuavaCacheManager.java:93) ~[spring-context-support-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.springframework.cache.guava.GuavaCacheManager.<init>(GuavaCacheManager.java:79) ~[spring-context-support-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at com.qunar.guavaDemo.cache.AppConfigA.cacheManager(AppConfigA.java:24) ~[classes/:na]
+	at com.qunar.guavaDemo.cache.AppConfigA$$EnhancerBySpringCGLIB$$df793eab.CGLIB$cacheManager$0(<generated>) ~[spring-core-4.1.5.RELEASE.jar:na]
+	at com.qunar.guavaDemo.cache.AppConfigA$$EnhancerBySpringCGLIB$$df793eab$$FastClassBySpringCGLIB$$84517f9.invoke(<generated>) ~[spring-core-4.1.5.RELEASE.jar:na]
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228) ~[spring-core-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:309) ~[spring-context-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at com.qunar.guavaDemo.cache.AppConfigA$$EnhancerBySpringCGLIB$$df793eab.cacheManager(<generated>) ~[spring-core-4.1.5.RELEASE.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_40]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[na:1.7.0_40]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.7.0_40]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[na:1.7.0_40]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:162) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	... 18 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.cache.support.AbstractValueAdaptingCache
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366) ~[na:1.7.0_40]
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355) ~[na:1.7.0_40]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.7.0_40]
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354) ~[na:1.7.0_40]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[na:1.7.0_40]
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308) ~[na:1.7.0_40]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[na:1.7.0_40]
+	... 44 common frames omitted
+2016-07-21 21:00:59.014 [main] INFO  o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@3f1dc32c: startup date [Thu Jul 21 21:00:59 CST 2016]; root of context hierarchy
+2016-07-21 21:00:59.872 [main] WARN  o.s.c.a.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cacheManager' defined in com.qunar.guavaDemo.cache.AppConfigA: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.cache.CacheManager]: Factory method 'cacheManager' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/cache/support/AbstractValueAdaptingCache
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:599) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1111) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1006) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:504) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:303) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:299) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:194) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:755) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:757) ~[spring-context-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480) ~[spring-context-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at com.qunar.guavaDemo.cache.CacheDemoA.main(CacheDemoA.java:14) [classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_40]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[na:1.7.0_40]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.7.0_40]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[na:1.7.0_40]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:na]
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.cache.CacheManager]: Factory method 'cacheManager' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/cache/support/AbstractValueAdaptingCache
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:189) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:588) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	... 17 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: org/springframework/cache/support/AbstractValueAdaptingCache
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[na:1.7.0_40]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:792) ~[na:1.7.0_40]
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142) ~[na:1.7.0_40]
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:449) ~[na:1.7.0_40]
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:71) ~[na:1.7.0_40]
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:361) ~[na:1.7.0_40]
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355) ~[na:1.7.0_40]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.7.0_40]
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354) ~[na:1.7.0_40]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[na:1.7.0_40]
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308) ~[na:1.7.0_40]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[na:1.7.0_40]
+	at org.springframework.cache.guava.GuavaCacheManager.createGuavaCache(GuavaCacheManager.java:196) ~[spring-context-support-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.springframework.cache.guava.GuavaCacheManager.setCacheNames(GuavaCacheManager.java:93) ~[spring-context-support-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.springframework.cache.guava.GuavaCacheManager.<init>(GuavaCacheManager.java:79) ~[spring-context-support-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at com.qunar.guavaDemo.cache.AppConfigA.cacheManager(AppConfigA.java:24) ~[classes/:na]
+	at com.qunar.guavaDemo.cache.AppConfigA$$EnhancerBySpringCGLIB$$df793eab.CGLIB$cacheManager$0(<generated>) ~[spring-core-4.1.5.RELEASE.jar:na]
+	at com.qunar.guavaDemo.cache.AppConfigA$$EnhancerBySpringCGLIB$$df793eab$$FastClassBySpringCGLIB$$84517f9.invoke(<generated>) ~[spring-core-4.1.5.RELEASE.jar:na]
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228) ~[spring-core-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:309) ~[spring-context-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at com.qunar.guavaDemo.cache.AppConfigA$$EnhancerBySpringCGLIB$$df793eab.cacheManager(<generated>) ~[spring-core-4.1.5.RELEASE.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_40]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[na:1.7.0_40]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.7.0_40]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[na:1.7.0_40]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:162) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	... 18 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.cache.support.AbstractValueAdaptingCache
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366) ~[na:1.7.0_40]
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355) ~[na:1.7.0_40]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.7.0_40]
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354) ~[na:1.7.0_40]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[na:1.7.0_40]
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308) ~[na:1.7.0_40]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[na:1.7.0_40]
+	... 44 common frames omitted
+2016-07-21 21:03:08.272 [main] INFO  o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@3af89e13: startup date [Thu Jul 21 21:03:08 CST 2016]; root of context hierarchy
+2016-07-21 21:03:09.153 [main] WARN  o.s.c.a.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cacheManager' defined in com.qunar.guavaDemo.cache.AppConfigA: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.cache.CacheManager]: Factory method 'cacheManager' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/cache/support/AbstractValueAdaptingCache
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:599) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1111) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1006) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:504) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:303) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:299) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:194) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:755) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:757) ~[spring-context-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480) ~[spring-context-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at com.qunar.guavaDemo.cache.CacheDemoA.main(CacheDemoA.java:14) [classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_40]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[na:1.7.0_40]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.7.0_40]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[na:1.7.0_40]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:na]
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.cache.CacheManager]: Factory method 'cacheManager' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/cache/support/AbstractValueAdaptingCache
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:189) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:588) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	... 17 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: org/springframework/cache/support/AbstractValueAdaptingCache
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[na:1.7.0_40]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:792) ~[na:1.7.0_40]
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142) ~[na:1.7.0_40]
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:449) ~[na:1.7.0_40]
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:71) ~[na:1.7.0_40]
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:361) ~[na:1.7.0_40]
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355) ~[na:1.7.0_40]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.7.0_40]
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354) ~[na:1.7.0_40]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[na:1.7.0_40]
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308) ~[na:1.7.0_40]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[na:1.7.0_40]
+	at org.springframework.cache.guava.GuavaCacheManager.createGuavaCache(GuavaCacheManager.java:196) ~[spring-context-support-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.springframework.cache.guava.GuavaCacheManager.setCacheNames(GuavaCacheManager.java:93) ~[spring-context-support-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.springframework.cache.guava.GuavaCacheManager.<init>(GuavaCacheManager.java:79) ~[spring-context-support-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at com.qunar.guavaDemo.cache.AppConfigA.cacheManager(AppConfigA.java:24) ~[classes/:na]
+	at com.qunar.guavaDemo.cache.AppConfigA$$EnhancerBySpringCGLIB$$f5ece864.CGLIB$cacheManager$0(<generated>) ~[spring-core-4.1.5.RELEASE.jar:na]
+	at com.qunar.guavaDemo.cache.AppConfigA$$EnhancerBySpringCGLIB$$f5ece864$$FastClassBySpringCGLIB$$8daee40.invoke(<generated>) ~[spring-core-4.1.5.RELEASE.jar:na]
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228) ~[spring-core-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:309) ~[spring-context-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at com.qunar.guavaDemo.cache.AppConfigA$$EnhancerBySpringCGLIB$$f5ece864.cacheManager(<generated>) ~[spring-core-4.1.5.RELEASE.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_40]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[na:1.7.0_40]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.7.0_40]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[na:1.7.0_40]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:162) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	... 18 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.cache.support.AbstractValueAdaptingCache
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366) ~[na:1.7.0_40]
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355) ~[na:1.7.0_40]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.7.0_40]
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354) ~[na:1.7.0_40]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[na:1.7.0_40]
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308) ~[na:1.7.0_40]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[na:1.7.0_40]
+	... 44 common frames omitted
+2016-07-21 21:05:07.733 [main] INFO  o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@b5be8ff: startup date [Thu Jul 21 21:05:07 CST 2016]; root of context hierarchy
+2016-07-21 21:05:08.754 [main] WARN  o.s.c.a.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cacheManager' defined in com.qunar.guavaDemo.cache.AppConfigA: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.cache.CacheManager]: Factory method 'cacheManager' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/cache/support/AbstractValueAdaptingCache
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:599) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1111) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1006) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:504) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:303) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:299) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:194) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:755) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:757) ~[spring-context-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480) ~[spring-context-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at com.qunar.guavaDemo.cache.CacheDemoA.main(CacheDemoA.java:14) [classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_40]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[na:1.7.0_40]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.7.0_40]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[na:1.7.0_40]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:na]
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.cache.CacheManager]: Factory method 'cacheManager' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/cache/support/AbstractValueAdaptingCache
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:189) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:588) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	... 17 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: org/springframework/cache/support/AbstractValueAdaptingCache
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[na:1.7.0_40]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:792) ~[na:1.7.0_40]
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142) ~[na:1.7.0_40]
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:449) ~[na:1.7.0_40]
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:71) ~[na:1.7.0_40]
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:361) ~[na:1.7.0_40]
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355) ~[na:1.7.0_40]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.7.0_40]
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354) ~[na:1.7.0_40]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[na:1.7.0_40]
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308) ~[na:1.7.0_40]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[na:1.7.0_40]
+	at org.springframework.cache.guava.GuavaCacheManager.createGuavaCache(GuavaCacheManager.java:196) ~[spring-context-support-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.springframework.cache.guava.GuavaCacheManager.setCacheNames(GuavaCacheManager.java:93) ~[spring-context-support-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.springframework.cache.guava.GuavaCacheManager.<init>(GuavaCacheManager.java:79) ~[spring-context-support-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at com.qunar.guavaDemo.cache.AppConfigA.cacheManager(AppConfigA.java:24) ~[classes/:na]
+	at com.qunar.guavaDemo.cache.AppConfigA$$EnhancerBySpringCGLIB$$9335a253.CGLIB$cacheManager$0(<generated>) ~[spring-core-4.1.5.RELEASE.jar:na]
+	at com.qunar.guavaDemo.cache.AppConfigA$$EnhancerBySpringCGLIB$$9335a253$$FastClassBySpringCGLIB$$49d242d.invoke(<generated>) ~[spring-core-4.1.5.RELEASE.jar:na]
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228) ~[spring-core-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:309) ~[spring-context-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at com.qunar.guavaDemo.cache.AppConfigA$$EnhancerBySpringCGLIB$$9335a253.cacheManager(<generated>) ~[spring-core-4.1.5.RELEASE.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_40]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[na:1.7.0_40]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.7.0_40]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[na:1.7.0_40]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:162) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	... 18 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.cache.support.AbstractValueAdaptingCache
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366) ~[na:1.7.0_40]
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355) ~[na:1.7.0_40]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.7.0_40]
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354) ~[na:1.7.0_40]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[na:1.7.0_40]
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308) ~[na:1.7.0_40]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[na:1.7.0_40]
+	... 44 common frames omitted
+2016-07-21 21:06:48.516 [main] INFO  o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@18520fa4: startup date [Thu Jul 21 21:06:48 CST 2016]; root of context hierarchy
+2016-07-21 21:06:49.444 [main] WARN  o.s.c.a.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cacheManager' defined in com.qunar.guavaDemo.cache.AppConfigA: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.cache.CacheManager]: Factory method 'cacheManager' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/cache/support/AbstractValueAdaptingCache
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:599) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1111) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1006) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:504) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:303) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:299) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:194) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:755) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:757) ~[spring-context-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480) ~[spring-context-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at com.qunar.guavaDemo.cache.CacheDemoA.main(CacheDemoA.java:14) [classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_40]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[na:1.7.0_40]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.7.0_40]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[na:1.7.0_40]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:na]
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.cache.CacheManager]: Factory method 'cacheManager' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/cache/support/AbstractValueAdaptingCache
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:189) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:588) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	... 17 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: org/springframework/cache/support/AbstractValueAdaptingCache
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[na:1.7.0_40]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:792) ~[na:1.7.0_40]
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142) ~[na:1.7.0_40]
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:449) ~[na:1.7.0_40]
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:71) ~[na:1.7.0_40]
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:361) ~[na:1.7.0_40]
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355) ~[na:1.7.0_40]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.7.0_40]
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354) ~[na:1.7.0_40]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[na:1.7.0_40]
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308) ~[na:1.7.0_40]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[na:1.7.0_40]
+	at org.springframework.cache.guava.GuavaCacheManager.createGuavaCache(GuavaCacheManager.java:196) ~[spring-context-support-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.springframework.cache.guava.GuavaCacheManager.setCacheNames(GuavaCacheManager.java:93) ~[spring-context-support-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.springframework.cache.guava.GuavaCacheManager.<init>(GuavaCacheManager.java:79) ~[spring-context-support-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at com.qunar.guavaDemo.cache.AppConfigA.cacheManager(AppConfigA.java:24) ~[classes/:na]
+	at com.qunar.guavaDemo.cache.AppConfigA$$EnhancerBySpringCGLIB$$43658924.CGLIB$cacheManager$0(<generated>) ~[spring-core-4.1.5.RELEASE.jar:na]
+	at com.qunar.guavaDemo.cache.AppConfigA$$EnhancerBySpringCGLIB$$43658924$$FastClassBySpringCGLIB$$2434463.invoke(<generated>) ~[spring-core-4.1.5.RELEASE.jar:na]
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228) ~[spring-core-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:309) ~[spring-context-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at com.qunar.guavaDemo.cache.AppConfigA$$EnhancerBySpringCGLIB$$43658924.cacheManager(<generated>) ~[spring-core-4.1.5.RELEASE.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_40]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[na:1.7.0_40]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.7.0_40]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[na:1.7.0_40]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:162) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	... 18 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.cache.support.AbstractValueAdaptingCache
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366) ~[na:1.7.0_40]
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355) ~[na:1.7.0_40]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.7.0_40]
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354) ~[na:1.7.0_40]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[na:1.7.0_40]
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308) ~[na:1.7.0_40]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[na:1.7.0_40]
+	... 44 common frames omitted
+2016-07-21 21:08:36.522 [main] INFO  o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@18520fa4: startup date [Thu Jul 21 21:08:36 CST 2016]; root of context hierarchy
+2016-07-21 21:08:37.496 [main] WARN  o.s.c.a.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cacheManager' defined in com.qunar.guavaDemo.cache.AppConfigA: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.cache.CacheManager]: Factory method 'cacheManager' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/cache/support/AbstractValueAdaptingCache
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:599) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1111) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1006) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:504) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:303) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:299) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:194) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:755) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:757) ~[spring-context-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480) ~[spring-context-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at com.qunar.guavaDemo.cache.CacheDemoA.main(CacheDemoA.java:14) [classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_40]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[na:1.7.0_40]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.7.0_40]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[na:1.7.0_40]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:na]
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.cache.CacheManager]: Factory method 'cacheManager' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/cache/support/AbstractValueAdaptingCache
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:189) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:588) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	... 17 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: org/springframework/cache/support/AbstractValueAdaptingCache
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[na:1.7.0_40]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:792) ~[na:1.7.0_40]
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142) ~[na:1.7.0_40]
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:449) ~[na:1.7.0_40]
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:71) ~[na:1.7.0_40]
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:361) ~[na:1.7.0_40]
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355) ~[na:1.7.0_40]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.7.0_40]
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354) ~[na:1.7.0_40]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[na:1.7.0_40]
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308) ~[na:1.7.0_40]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[na:1.7.0_40]
+	at org.springframework.cache.guava.GuavaCacheManager.createGuavaCache(GuavaCacheManager.java:196) ~[spring-context-support-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.springframework.cache.guava.GuavaCacheManager.setCacheNames(GuavaCacheManager.java:93) ~[spring-context-support-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.springframework.cache.guava.GuavaCacheManager.<init>(GuavaCacheManager.java:79) ~[spring-context-support-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at com.qunar.guavaDemo.cache.AppConfigA.cacheManager(AppConfigA.java:24) ~[classes/:na]
+	at com.qunar.guavaDemo.cache.AppConfigA$$EnhancerBySpringCGLIB$$a43f300c.CGLIB$cacheManager$0(<generated>) ~[spring-core-4.1.5.RELEASE.jar:na]
+	at com.qunar.guavaDemo.cache.AppConfigA$$EnhancerBySpringCGLIB$$a43f300c$$FastClassBySpringCGLIB$$774ff0f8.invoke(<generated>) ~[spring-core-4.1.5.RELEASE.jar:na]
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228) ~[spring-core-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:309) ~[spring-context-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	at com.qunar.guavaDemo.cache.AppConfigA$$EnhancerBySpringCGLIB$$a43f300c.cacheManager(<generated>) ~[spring-core-4.1.5.RELEASE.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_40]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[na:1.7.0_40]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.7.0_40]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[na:1.7.0_40]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:162) ~[spring-beans-4.1.5.RELEASE.jar:4.1.5.RELEASE]
+	... 18 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.cache.support.AbstractValueAdaptingCache
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366) ~[na:1.7.0_40]
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355) ~[na:1.7.0_40]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.7.0_40]
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354) ~[na:1.7.0_40]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[na:1.7.0_40]
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308) ~[na:1.7.0_40]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[na:1.7.0_40]
+	... 44 common frames omitted
+2016-07-21 21:13:08.055 [main] INFO  o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@faaed09: startup date [Thu Jul 21 21:13:08 CST 2016]; root of context hierarchy
+2016-07-21 21:13:09.604 [main] INFO  o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@faaed09: startup date [Thu Jul 21 21:13:08 CST 2016]; root of context hierarchy
+2016-07-21 21:20:30.577 [main] INFO  o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@23852c7f: startup date [Thu Jul 21 21:20:30 CST 2016]; root of context hierarchy
+2016-07-21 21:20:31.685 [main] INFO  o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@23852c7f: startup date [Thu Jul 21 21:20:30 CST 2016]; root of context hierarchy
+2016-07-21 21:20:50.537 [main] INFO  o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@1f67e563: startup date [Thu Jul 21 21:20:50 CST 2016]; root of context hierarchy
+2016-07-21 21:20:51.786 [main] INFO  o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@1f67e563: startup date [Thu Jul 21 21:20:50 CST 2016]; root of context hierarchy
+2016-07-21 21:54:58.782 [main] INFO  o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@3ea4480d: startup date [Thu Jul 21 21:54:58 CST 2016]; root of context hierarchy
+2016-07-21 22:10:48.190 [main] INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1c9ac1e4: startup date [Thu Jul 21 22:10:48 CST 2016]; root of context hierarchy
+2016-07-21 22:10:48.264 [main] INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [Demo/Orange.xml]
+2016-07-21 22:10:49.168 [main] WARN  o.s.c.s.ClassPathXmlApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'Bookname' defined in class path resource [Demo/Orange.xml]: Error setting property values; nested exception is org.springframework.beans.NotWritablePropertyException: Invalid property 'name' of bean class [java.lang.String]: Bean property 'name' is not writable or has an invalid setter method. Does the parameter type of the setter match the return type of the getter?
+2016-07-21 22:13:00.472 [main] INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@742f6e67: startup date [Thu Jul 21 22:13:00 CST 2016]; root of context hierarchy
+2016-07-21 22:13:00.544 [main] INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [Demo/Orange.xml]
+2016-07-21 22:13:01.114 [main] WARN  o.s.c.s.ClassPathXmlApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'Bookname' defined in class path resource [Demo/Orange.xml]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [Demo.Orange]: No default constructor found; nested exception is java.lang.NoSuchMethodException: Demo.Orange.<init>()
+2016-07-21 22:13:56.404 [main] INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@55f967c8: startup date [Thu Jul 21 22:13:56 CST 2016]; root of context hierarchy
+2016-07-21 22:13:56.480 [main] INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [Demo/Orange.xml]
+2016-07-21 22:13:57.325 [main] WARN  o.s.c.s.ClassPathXmlApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'Bookname' defined in class path resource [Demo/Orange.xml]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [Demo.Orange]: No default constructor found; nested exception is java.lang.NoSuchMethodException: Demo.Orange.<init>()
+2016-07-21 22:15:43.009 [main] INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1c9ac1e4: startup date [Thu Jul 21 22:15:43 CST 2016]; root of context hierarchy
+2016-07-21 22:15:43.109 [main] INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [Demo/Orange.xml]
+2016-07-21 22:16:07.165 [main] INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1c9ac1e4: startup date [Thu Jul 21 22:16:07 CST 2016]; root of context hierarchy
+2016-07-21 22:16:07.241 [main] INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [Demo/Orange.xml]
+2016-07-21 22:16:08.005 [main] WARN  o.s.c.s.ClassPathXmlApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'orangeId' defined in class path resource [Demo/Orange.xml]: Initialization of bean failed; nested exception is org.springframework.beans.ConversionNotSupportedException: Failed to convert property value of type [Demo.Orange] to required type [java.lang.String] for property 'name'; nested exception is java.lang.IllegalStateException: Cannot convert value of type [Demo.Orange] to required type [java.lang.String] for property 'name': no matching editors or conversion strategy found
+2016-07-21 22:16:21.844 [main] INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@695a22ad: startup date [Thu Jul 21 22:16:21 CST 2016]; root of context hierarchy
+2016-07-21 22:16:21.923 [main] INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [Demo/Orange.xml]
+2016-07-21 22:16:22.754 [main] WARN  o.s.c.s.ClassPathXmlApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'orangeId' defined in class path resource [Demo/Orange.xml]: Initialization of bean failed; nested exception is org.springframework.beans.ConversionNotSupportedException: Failed to convert property value of type [Demo.Orange] to required type [java.lang.String] for property 'name'; nested exception is java.lang.IllegalStateException: Cannot convert value of type [Demo.Orange] to required type [java.lang.String] for property 'name': no matching editors or conversion strategy found
+2016-07-21 22:23:37.122 [main] INFO  o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@13766d9c: startup date [Thu Jul 21 22:23:37 CST 2016]; root of context hierarchy
+2016-07-21 22:33:07.641 [main] INFO  o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5e04d6b0: startup date [Thu Jul 21 22:33:07 CST 2016]; root of context hierarchy
+2016-07-21 22:33:08.779 [main] INFO  o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@5e04d6b0: startup date [Thu Jul 21 22:33:07 CST 2016]; root of context hierarchy

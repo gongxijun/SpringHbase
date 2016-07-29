@@ -1,0 +1,4 @@
+2016-07-22 10:37:17.927 [main] INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@55f967c8: startup date [Fri Jul 22 10:37:17 CST 2016]; root of context hierarchy
+2016-07-22 10:37:18.002 [main] INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [Demo/Orange.xml]
+2016-07-22 10:37:52.760 [main] INFO  o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6311c509: startup date [Fri Jul 22 10:37:52 CST 2016]; root of context hierarchy
+2016-07-22 10:37:52.827 [main] INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [Demo/Orange.xml]

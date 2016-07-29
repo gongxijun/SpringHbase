@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: commons-beanutils:commons-beanutils:1.8.3.fix">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/commons-beanutils/commons-beanutils/1.8.3.fix/commons-beanutils-1.8.3.fix.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/commons-beanutils/commons-beanutils/1.8.3.fix/commons-beanutils-1.8.3.fix-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/commons-beanutils/commons-beanutils/1.8.3.fix/commons-beanutils-1.8.3.fix-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

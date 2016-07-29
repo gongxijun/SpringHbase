@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:hdp="http://www.springframework.org/schema/hadoop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd   http://www.springframework.org/schema/hadoop http://www.springframework.org/schema/hadoop/spring-hadoop.xsd">
+    <context:property-placeholder location="classpath:sqldb.properties" ignore-unresolvable="true"/>
+    <!--自动扫描包-->
+    <context:component-scan base-package="com.qunar.ssm.model"/>
+    <context:component-scan base-package="com.qunar.ssm.vo"/>
+    <context:component-scan base-package="com.qunar.ssm.dao"/>
+    <context:component-scan base-package="com.qunar.ssm.service"/>
+    <context:annotation-config></context:annotation-config>
+    <!--使用@JsonBody需要去掉
+    <mvc:annotation-driven/>
+     -->
+    <context:component-scan base-package="qunar.web.spring, com.qunar.ssm.controll"/>
+    <!--配置数据库-->
+    <bean id="DemoSqlPoolDataSource" abstract="true" class="org.apache.tomcat.jdbc.pool.DataSource"
+          destroy-method="close">
+        <property name="driverClassName" value="${ssm.jdbc.driverClassName}"/>
+        <property name="maxActive" value="20"/>
+        <property name="maxIdle" value="20"/>
+        <property name="maxWait" value="3000"/>
+        <property name="validationQuery" value="select 1"/>
+        <property name="validationInterval" value="30000"/>
+        <property name="testOnBorrow" value="true"/>
+        <property name="testWhileIdle" value="true"/>
+    </bean>
+    <bean id="dataSource" parent="DemoSqlPoolDataSource">
+        <property name="url" value="${ssm.jdbc.url}"/>
+        <property name="username" value="${ssm.jdbc.username}"/>
+        <property name="password" value="${ssm.jdbc.password}"/>
+    </bean>
+    <!--Mybatis文件配置-->
+    <bean id="mysqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
+        <property name="dataSource" ref="dataSource"/>
+        <property name="configLocation" value="classpath:mybatis-config.xml"/>
+    </bean>
+
+    <!--设置mysqlSession-->
+    <bean id="mysqlSession" class="org.mybatis.spring.SqlSessionTemplate" scope="prototype">
+        <constructor-arg ref="mysqlSessionFactory"/>
+    </bean>
+    <!--配置dao层 自动扫描注解配置-->
+    <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
+        <!--设置扫描范围-->
+        <property name="basePackage" value="com.qunar.ssm.dao"/>
+        <!--上面配置过的mybatisBean-->
+        <property name="sqlSessionFactoryBeanName" value="mysqlSessionFactory"/>
+    </bean>
+    <!--
+        <bean id="DemoDao" class="org.mybatis.spring.mapper.MapperFactoryBean">
+            <property name="mapperInterface"  value="com.qunar.ssm.dao.LogDao"/>
+            <property name="sqlSessionFactory" ref="mysqlSessionFactory"/>
+        </bean>
+    -->
+
+    <!--配置Hbase文件-->
+    <context:property-placeholder location="classpath:hbase.properties"/>
+
+    <hdp:configuration id="hadoopConfiguration">
+        fs.defaultFS=hdfs://localhost:8020
+    </hdp:configuration>
+    <hdp:hbase-configuration configuration-ref="hadoopConfiguration" zk-quorum="${hbase.zk.host}"
+                             zk-port="${hbase.zk.port}"/>
+    <bean id="hbaseTemplate" class="org.springframework.data.hadoop.hbase.HbaseTemplate">
+        <property name="configuration" ref="hbaseConfiguration"/>
+    </bean>
+
+</beans>

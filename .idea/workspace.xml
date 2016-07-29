@@ -1,0 +1,2428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/Java/com/qunar/ssm/service/HBaseService.java" description="public Result get(final String tableName, final St..." line="22" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c1ae5f3b-5567-42cf-9c04-4575116aeaa6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/classes/com/qunar/demo/hbase/CreateHBaseTable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/classes/com/qunar/demo/flume/DemoFlume.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/classes/com/qunar/demo/flume/DemoFlume.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/classes/com/qunar/demo/hbase/HBaseClientDemo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/classes/com/qunar/demo/KafkaHBaseConsumer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/classes/com/qunar/demo/flume/HbaseEvent/MyHbaseEventSerializer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/classes/com/qunar/demo/flume/MyRpcClientFacade.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/classes/com/qunar/demo/flume/MyRpcClientFacade.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone-v3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/lib/avro-1.7.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/lib/avro-ipc-1.7.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/lib/commons-cli-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/lib/commons-codec-1.8.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/lib/commons-collections-3.2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/lib/commons-io-2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/lib/commons-lang-2.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/lib/commons-logging-1.1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/lib/findbugs-annotations-1.3.9-1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/lib/flume-ng-configuration-1.5.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/lib/flume-ng-core-1.5.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/lib/flume-ng-elasticsearch-sink-1.5.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/lib/flume-ng-sdk-1.5.0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/out/artifacts/flume_jar/flume.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume.war" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/lib/gson-2.2.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/lib/guava-18.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/lib/httpclient-4.2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/lib/httpcore-4.2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/lib/jackson-core-asl-1.8.8.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/lib/jackson-mapper-asl-1.8.8.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/lib/jetty-6.1.26.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/lib/jetty-util-6.1.26.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/lib/joda-time-2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/lib/libthrift-0.7.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/lib/log4j-1.2.17.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/lib/mina-core-2.0.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/lib/netty-3.5.12.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/lib/paranamer-2.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/lib/servlet-api-2.5-20110124.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/lib/slf4j-api-1.6.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/lib/slf4j-log4j12-1.6.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/lib/snappy-java-1.0.4.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/lib/velocity-1.7.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/Java/com/qunar/guavaDemo/cache/AppConfigA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/Java/com/qunar/guavaDemo/cache/AppContext.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../java_avalon-master/AvalonProject.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/Java/com/qunar/guavaDemo/cache/Book.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/Java/com/qunar/guavaDemo/cache/BookAppA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/Java/com/qunar/guavaDemo/cache/CacheDemoA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Demo/Calculates.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/src/main/Java/com/qunar/demo/hbase/CreateHBaseTable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Demo1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/src/main/Java/com/qunar/demo/flume/DemoFlume.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/Java/com/qunar/guavaDemo/cache/DemoMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Demo_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Demo_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Demo/Frog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Demo/FruitName.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/util/HBaseAccessor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/src/main/Java/com/qunar/demo/hbase/HBaseClientDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/service/HBaseService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/service/imp/HBaseServiceImp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Demo/Inheriting.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/src/main/Java/com/qunar/demo/KafkaHBaseConsumer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/dao/LogDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/model/LogModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/service/LogService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/service/imp/LogServiceImp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Demo/LostMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Main1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Main2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Main3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/logback/MapReduceDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__ant_ant_1_6_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__apache_httpclient_commons_httpclient_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__asm_asm_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_101tec_zkclient_0_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_0_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_1_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_github_stephenc_findbugs_findbugs_annotations_1_3_9_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_github_stephenc_high_scale_lib_high_scale_lib_1_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_google_code_gson_gson_2_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_google_inject_extensions_guice_servlet_3_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_google_inject_guice_3_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_aviator_aviator_2_3_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_concurrent_trees_concurrent_trees_1_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_jcraft_jsch_0_1_42.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ning_async_http_client_1_9_31.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qunar_base_meerkat_common_2_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qunar_base_meerkat_mybatis_2_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qunar_base_meerkat_web_2_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qunar_corp_publicservice_corppublicservice_api_1_1_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qunar_corp_publicservice_corppublicservice_common_1_1_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qunar_corp_publicservice_oig_client_1_1_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qunar_corpdev_commons_0_1_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qunar_db_dbaccess_1_7_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qunar_db_zkclient_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qunar_dubbo_dubbo_3_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qunar_hotel_engine_1_3_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qunar_hotel_qmonitor_1_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qunar_qtown_privilege_acr_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qunar_qtown_privilege_api_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qunar_security_qsso_client_0_0_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qunar_security_qsso_client_0_0_3_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_guice_1_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_sun_jersey_jersey_grizzly2_1_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_sun_jersey_jersey_json_1_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_sun_jersey_jersey_test_framework_jersey_test_framework_core_1_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_sun_jersey_jersey_test_framework_jersey_test_framework_grizzly2_1_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_yammer_metrics_metrics_core_2_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_yammer_metrics_metrics_core_2_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_codec_commons_codec_1_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_codec_commons_codec_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_codec_commons_codec_1_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_daemon_commons_daemon_1_0_13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_el_commons_el_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_io_commons_io_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_net_commons_net_1_4_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_net_commons_net_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__hsqldb_hsqldb_1_8_0_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__io_netty_netty_3_5_12_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_9_5_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__javax_activation_activation_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_mail_mail_1_4_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__javax_servlet_jsp_api_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__joda_time_joda_time_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_38.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__net_java_dev_jets3t_jets3t_0_6_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__net_jpountz_lz4_lz4_1_3_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_3_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_opencsv_opencsv_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_supercsv_super_csv_2_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_trove4j_trove4j_3_0_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_jexcelapi_jxl_2_6_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_avro_avro_1_7_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_avro_avro_ipc_1_7_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_commons_commons_math_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_flume_flume_ng_configuration_1_4_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_flume_flume_ng_configuration_1_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_flume_flume_ng_core_1_4_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_flume_flume_ng_core_1_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_flume_flume_ng_sdk_1_5_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_flume_flume_ng_sinks_flume_ng_elasticsearch_sink_1_4_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_flume_flume_ng_sinks_flume_ng_elasticsearch_sink_1_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_6_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_client_2_1_0_beta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_2_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_core_0_20_2_cdh3u3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_2_1_0_beta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_test_jar_tests_2_1_0_beta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_app_2_1_0_beta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_common_2_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_core_2_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_test_jar_tests_2_1_0_beta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_api_2_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_client_2_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_common_2_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_common_2_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_nodemanager_2_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_thirdparty_guava_guava_r09_jarjar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hbase_hbase_client_0_96_0_hadoop2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hbase_hbase_client_0_98_5_hadoop2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hbase_hbase_common_0_96_0_hadoop2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hbase_hbase_common_0_98_5_hadoop2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hbase_hbase_hadoop2_compat_0_96_0_hadoop2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hbase_hbase_hadoop_compat_0_96_0_hadoop2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hbase_hbase_it_0_96_0_hadoop2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hbase_hbase_prefix_tree_0_96_0_hadoop2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hbase_hbase_protocol_0_96_0_hadoop2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hbase_hbase_protocol_0_98_5_hadoop2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hbase_hbase_server_0_96_0_hadoop2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hbase_hbase_shell_0_96_0_hadoop2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_kafka_kafka_2_10_0_8_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_kafka_kafka_2_9_2_0_10_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_kafka_kafka_2_9_2_0_8_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_kafka_kafka_clients_0_10_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_mina_mina_core_2_0_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_thrift_libthrift_0_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_thrift_libthrift_0_9_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_velocity_velocity_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_7_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk16_1_46.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_cloudera_htrace_htrace_core_2_01.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_cloudera_htrace_htrace_core_2_04.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_5_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_8_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_lgpl_1_9_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_8_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_5_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_8_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_lgpl_1_9_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_8_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_eclipse_jdt_core_3_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_glassfish_external_management_api_3_0_0_b012.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_glassfish_gmbal_gmbal_api_only_3_0_0_b023.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_glassfish_grizzly_grizzly_framework_2_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_glassfish_grizzly_grizzly_http_2_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_glassfish_grizzly_grizzly_http_server_2_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_glassfish_grizzly_grizzly_http_servlet_2_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_glassfish_grizzly_grizzly_rcm_2_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_glassfish_javax_servlet_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_jamon_jamon_runtime_2_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javaswift_joss_0_9_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_jruby_jruby_complete_1_6_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_26.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_mortbay_jetty_jetty_sslengine_6_1_26.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_mortbay_jetty_jsp_2_1_6_1_14.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_mortbay_jetty_jsp_api_2_1_6_1_14.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_mortbay_jetty_servlet_api_2_5_20081211.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_mortbay_jetty_servlet_api_2_5_20110124.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_mortbay_jetty_servlet_api_2_5_6_1_14.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_4_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_scala_lang_scala_library_2_10_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_scala_lang_scala_library_2_9_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_slf4j_slf4j_api_1_5_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_batch_spring_batch_core_3_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_batch_spring_batch_infrastructure_3_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_hadoop_2_6_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_2_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_1_8_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_tukaani_xz_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_0_4_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__oro_oro_2_0_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_common_common_api_8_2_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_common_common_blocking_8_2_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_common_common_concurrent_8_2_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_common_common_core_8_2_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_common_common_http_8_2_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_common_common_lang_8_2_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_common_common_rpc_8_2_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_common_common_web_8_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_common_common_web_8_2_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_tc_coreinfo_core_info_client_encrypt_1_9_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_tc_qconfig_qconfig_client_1_1_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_tc_qconfig_qconfig_common_1_1_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_tc_qmq_api_2_0_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_tc_qmq_client_2_0_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_tc_qmq_common_2_0_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_tc_qschedule_qschedule_api_1_0_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_tc_qschedule_qschedule_client_1_0_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_tc_qschedule_qschedule_common_1_0_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_tc_qschedule_qschedule_config_1_0_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_tc_qschedule_qschedule_config_api_1_0_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_tc_qschedule_qschedule_executor_1_0_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_6_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__tomcat_jasper_compiler_5_5_23.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__tomcat_jasper_runtime_5_5_23.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_9_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__xmlenc_xmlenc_0_52.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Demo/MyException1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/src/main/Java/com/qunar/demo/flume/MyRpcClientFacade.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Demo/Orange.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Demo/Orange.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Demo/SandWitch.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Demo/Serial.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Demo/TestAll.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/controll/TmpController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/avalon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/avalon.modern.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/avalon.next.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/avalon.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../java_avalon-master/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../java_avalon-master/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/flume.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/artifacts/flume_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/artifacts/flume_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/artifacts/flume_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/gongxijun.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/hbase.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/src/main/webapp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/lib.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/jsp/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../java_avalon-master/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../java_avalon-master/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../java_avalon-master/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/qunar-app.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../java_avalon-master/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources.dev/spring/spring-mybatis.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources.dev/sqldb.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/mapper/tmpLog.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/trainDemo_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/trainDemo_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../java_avalon-master/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../java_avalon-master/.idea/workspace.xml" />
+    </list>
+    <ignored path="trainDemo.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="MySQL - cdata@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="cdata" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="trainDemo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="HBaseServiceImp.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/Java/com/qunar/ssm/service/imp/HBaseServiceImp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.87323946" vertical-offset="724" max-vertical-offset="1584">
+              <caret line="54" column="48" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2032#2392#0" expanded="true" />
+                <element signature="e#2391#2392#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="504" max-vertical-offset="720">
+              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources.dev/spring/dao.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources.dev/spring/service.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/tmpLog.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/mybatis.xml" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/util/Coolumn.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/util/Column.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/util/Table.java" />
+        <option value="$PROJECT_DIR$/src/test/Demo/FruitName.java" />
+        <option value="$PROJECT_DIR$/src/test/Demo/FruitColor.java" />
+        <option value="$PROJECT_DIR$/src/test/Demo/TestAll.java" />
+        <option value="$PROJECT_DIR$/src/test/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/qunar/guavaDemo/cache/Book.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/qunar/guavaDemo/cache/AppContext.java" />
+        <option value="$PROJECT_DIR$/src/test/Demo/Orange.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/qunar/guavaDemo/cache/BookAppA.java" />
+        <option value="$PROJECT_DIR$/src/test/Demo/Demoq.java" />
+        <option value="$PROJECT_DIR$/src/test/Demo/Orange.xml" />
+        <option value="$PROJECT_DIR$/src/test/Demo/SandWitch.java" />
+        <option value="$PROJECT_DIR$/src/test/Demo/Frog.java" />
+        <option value="$PROJECT_DIR$/src/test/Demo/Inheriting.java" />
+        <option value="$PROJECT_DIR$/src/test/Demo/Serial.java" />
+        <option value="$PROJECT_DIR$/src/test/Demo/LostMessage.java" />
+        <option value="$PROJECT_DIR$/src/test/Demo/Sums.java" />
+        <option value="$PROJECT_DIR$/src/test/Demo/Calculate.java" />
+        <option value="$PROJECT_DIR$/src/test/logback/MapReduceDemo.java" />
+        <option value="$PROJECT_DIR$/src/test/Demo/MyEception.java" />
+        <option value="$PROJECT_DIR$/src/test/Demo/MyException.java" />
+        <option value="$PROJECT_DIR$/src/test/Demo/MyException1.java" />
+        <option value="$PROJECT_DIR$/src/test/Demo/Calculates.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/hbase.properties" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/util/HbaseUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/service/LogService.java" />
+        <option value="$MAVEN_REPOSITORY$/qunar/common/qunar-supom/1.3.2/qunar-supom-1.3.2.pom" />
+        <option value="$MAVEN_REPOSITORY$/qunar/common/qunar-supom-generic/1.3.2/qunar-supom-generic-1.3.2.pom" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/qunar/guavaDemo/cache/AppConfigA.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/qunar/guavaDemo/cache/CacheDemoA.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/qunar/guavaDemo/cache/DemoMain.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/service/imp/LogServiceImp.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources.dev/spring/spring-mybatis.xml" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/util/HBaseAccessor.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/target/Demo/js/avalon.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/model/LogModel.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/service/HBaseService.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/controll/TmpController.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/service/imp/HBaseServiceImp.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/Qunar/apache-maven" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="dev" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Demo Maven Webapp" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Demo Maven Webapp" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_INTERNAL" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="131" />
+    <option name="width" value="1366" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>LESS</id>
+          </State>
+          <State>
+            <id>Logging issues</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>LESS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Default">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trainDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trainDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trainDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trainDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trainDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trainDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trainDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trainDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trainDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trainDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trainDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qunar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ssm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trainDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qunar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ssm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trainDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qunar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ssm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trainDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qunar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ssm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trainDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qunar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ssm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controll" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trainDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qunar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trainDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="out" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.lastSelected" value="fileTemplates" />
+    <property name="options.splitter.main.proportions" value="0.22416666" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.14860907" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="LayoutCode.rearrangeEntriesXML" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/js" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.trainDemo">
+    <configuration default="false" name="Inheriting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Demo.Inheriting" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Demo" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="LostMessage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Demo.LostMessage" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Demo" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Calculates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Demo.Calculates" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Demo" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MapReduceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="logback.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="logback.MapReduceDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Demo" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="JobClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.apache.hadoop.mapred.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org.apache.hadoop.mapred.JobClient" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.database.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="false" name="trainDemo" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.47" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Demo:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_trainDemo" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Cover" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54443" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Demo:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.trainDemo" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Inheriting" />
+      <item index="2" class="java.lang.String" itemvalue="Application.LostMessage" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Calculates" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MapReduceDemo" />
+      <item index="5" class="java.lang.String" itemvalue="Application.JobClient" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.MapReduceDemo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.JobClient" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Calculates" />
+        <item index="3" class="java.lang.String" itemvalue="Application.LostMessage" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Inheriting" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1ae5f3b-5567-42cf-9c04-4575116aeaa6" name="Default" comment="" />
+      <created>1468573231470</created>
+      <option name="number" value="Default" />
+      <updated>1468573231470</updated>
+      <workItem from="1468573234436" duration="17099000" />
+      <workItem from="1468637919781" duration="52412000" />
+      <workItem from="1468806540091" duration="15837000" />
+      <workItem from="1468828342105" duration="2006000" />
+      <workItem from="1468830378175" duration="34147000" />
+      <workItem from="1468930075183" duration="589000" />
+      <workItem from="1468930692927" duration="5096000" />
+      <workItem from="1468979690623" duration="4338000" />
+      <workItem from="1468984143804" duration="13090000" />
+      <workItem from="1469072241557" duration="34059000" />
+      <workItem from="1469412066383" duration="35028000" />
+      <workItem from="1469588446093" duration="61213000" />
+      <workItem from="1469703590554" duration="4217000" />
+      <workItem from="1469756073458" duration="347000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="279478000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="131" width="1366" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872504" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.49923196" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872504" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30711043" sideWeight="0.5041322" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49923196" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27760968" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872504" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30559757" sideWeight="0.49586776" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20801815" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.48694316" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872504" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872504" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11630322" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21198156" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3281412" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Main1.java</url>
+          <line>91</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Main1.java</url>
+          <line>93</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Main1.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Main1.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Main2.java</url>
+          <line>96</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Demo/Frog.java</url>
+          <line>108</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/Java/com/qunar/ssm/controll/TmpController.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/Java/com/qunar/ssm/controll/TmpController.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="62" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="504" max-vertical-offset="720">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-hadoop/2.2.0.RELEASE/spring-data-hadoop-2.2.0.RELEASE.jar!/org/springframework/data/hadoop/config/spring-hadoop-2.1.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1439589" vertical-offset="23495" max-vertical-offset="30690">
+          <caret line="1330" column="12" selection-start-line="1330" selection-start-column="12" selection-end-line="1330" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-fileupload/commons-fileupload/1.2/commons-fileupload-1.2.jar!/org/apache/commons/fileupload/FileItemFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.2" vertical-offset="53" max-vertical-offset="270">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.3/mybatis-3.2.3-sources.jar!/org/apache/ibatis/binding/MapperMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="709" max-vertical-offset="5670">
+          <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/3.1.4.RELEASE/spring-core-3.1.4.RELEASE-sources.jar!/org/springframework/core/BridgeMethodResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="565" max-vertical-offset="3798">
+          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/3.1.4.RELEASE/spring-core-3.1.4.RELEASE-sources.jar!/org/springframework/core/annotation/AnnotationUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2059" max-vertical-offset="8190">
+          <caret line="142" column="0" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/3.1.4.RELEASE/spring-web-3.1.4.RELEASE-sources.jar!/org/springframework/web/context/request/ServletRequestAttributes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="763" max-vertical-offset="4356">
+          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/3.1.4.RELEASE/spring-web-3.1.4.RELEASE-sources.jar!/org/springframework/web/util/WebUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6253" max-vertical-offset="12636">
+          <caret line="384" column="0" selection-start-line="384" selection-start-column="0" selection-end-line="384" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/3.1.4.RELEASE/spring-web-3.1.4.RELEASE-sources.jar!/org/springframework/web/context/request/ServletWebRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="943" max-vertical-offset="3042">
+          <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.3/mybatis-3.2.3-sources.jar!/org/apache/ibatis/binding/MapperProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="313" max-vertical-offset="756">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/3.1.4.RELEASE/spring-webmvc-3.1.4.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/annotation/AnnotationMethodHandlerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.875" vertical-offset="5209" max-vertical-offset="20682">
+          <caret line="435" column="0" selection-start-line="435" selection-start-column="0" selection-end-line="435" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/3.1.4.RELEASE/spring-web-3.1.4.RELEASE-sources.jar!/org/springframework/web/bind/annotation/support/HandlerMethodInvoker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.620283" vertical-offset="1465" max-vertical-offset="14724">
+          <caret line="175" column="0" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/3.1.4.RELEASE/spring-core-3.1.4.RELEASE-sources.jar!/org/springframework/util/Assert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1635" max-vertical-offset="6948">
+          <caret line="113" column="0" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-hadoop-hbase/2.2.0.RELEASE/spring-data-hadoop-hbase-2.2.0.RELEASE-sources.jar!/org/springframework/data/hadoop/hbase/HbaseAccessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="861" max-vertical-offset="1170">
+          <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-hadoop-hbase/2.2.0.RELEASE/spring-data-hadoop-hbase-2.2.0.RELEASE-sources.jar!/org/springframework/data/hadoop/hbase/HbaseTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="807" max-vertical-offset="3726">
+          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-hadoop-hbase/2.2.0.RELEASE/spring-data-hadoop-hbase-2.2.0.RELEASE-sources.jar!/org/springframework/data/hadoop/hbase/HbaseSynchronizationManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="2448">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-hadoop-hbase/2.2.0.RELEASE/spring-data-hadoop-hbase-2.2.0.RELEASE-sources.jar!/org/springframework/data/hadoop/hbase/HbaseUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="825" max-vertical-offset="2016">
+          <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.2.0/hadoop-common-2.2.0-sources.jar!/org/apache/hadoop/conf/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.2258065" vertical-offset="486" max-vertical-offset="41598">
+          <caret line="162" column="13" selection-start-line="162" selection-start-column="13" selection-end-line="162" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1-sources.jar!/org/apache/commons/logging/LogFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17007" max-vertical-offset="32148">
+          <caret line="978" column="0" selection-start-line="978" selection-start-column="0" selection-end-line="978" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.0/hadoop-common-2.6.0.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4376" max-vertical-offset="14364">
+          <caret line="284" column="20" selection-start-line="284" selection-start-column="20" selection-end-line="284" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/qunar/ssm/service/imp/LogServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="224" max-vertical-offset="540">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/0.98.2-hadoop2/hbase-client-0.98.2-hadoop2-sources.jar!/org/apache/hadoop/hbase/client/HTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.42077088" vertical-offset="1275" max-vertical-offset="28854">
+          <caret line="122" column="0" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3384">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1-sources.jar!/org/apache/commons/logging/impl/WeakHashtable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18971062" vertical-offset="7568" max-vertical-offset="8190">
+          <caret line="454" column="3" selection-start-line="454" selection-start-column="3" selection-end-line="454" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/qunar/common/common-web/8.2.2/common-web-8.2.2.jar!/qunar/web/spring/WebConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37209302" vertical-offset="0" max-vertical-offset="720">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.qunar.trainDemo:Demo:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.qunar.trainDemo:Demo:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/commons-logging:commons-logging:jar:1.1.1</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/commons-configuration:commons-configuration:jar:1.6/commons-digester:commons-digester:jar:1.8</node>
+            <node x="" y="">com.qunar.base:meerkat-mybatis:jar:2.1.0</node>
+            <node x="" y="">qunar.common:common-core:jar:8.2.2/qunar.common:common-api:jar:8.2.2/org.hibernate:hibernate-validator:jar:5.0.1.Final/javax.validation:validation-api:jar:1.1.0.Final</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-pig:jar:2.2.0.RELEASE/org.springframework.batch:spring-batch-core:jar:3.0.4.RELEASE/com.thoughtworks.xstream:xstream:jar:1.4.7/xpp3:xpp3_min:jar:1.1.4c</node>
+            <node x="" y="">org.unitils:unitils-spring:jar:3.3/org.unitils:unitils-database:jar:3.3/commons-dbcp:commons-dbcp:jar:1.4/commons-pool:commons-pool:jar:1.5.4</node>
+            <node x="" y="">org.apache.hbase:hbase-client:jar:0.98.2-hadoop2/org.cloudera.htrace:htrace-core:jar:2.04</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/net.java.dev.jets3t:jets3t:jar:0.9.0</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/com.sun.jersey:jersey-server:jar:1.9</node>
+            <node x="" y="">qunar.common:common-core:jar:8.2.2/qunar.common:common-api:jar:8.2.2/com.googlecode.libphonenumber:libphonenumber:jar:7.0.2</node>
+            <node x="" y="">org.apache.hbase:hbase-client:jar:0.98.2-hadoop2/org.apache.hadoop:hadoop-annotations:jar:2.2.0</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/com.sun.jersey:jersey-json:jar:1.9/org.codehaus.jettison:jettison:jar:1.1</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-mapreduce-client-jobclient:jar:2.6.0/org.apache.hadoop:hadoop-mapreduce-client-shuffle:jar:2.6.0/org.fusesource.leveldbjni:leveldbjni-all:jar:1.8</node>
+            <node x="" y="">org.unitils:unitils-spring:jar:3.3/org.unitils:unitils-database:jar:3.3/org.unitils:unitils-dbmaintainer:jar:3.3/org.hibernate:hibernate:jar:3.2.5.ga/dom4j:dom4j:jar:1.6.1</node>
+            <node x="" y="">org.apache.tomcat:tomcat-jdbc:jar:7.0.30</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.6.0</node>
+            <node x="" y="">com.qunar.base:meerkat-mybatis:jar:2.1.0/org.mybatis:mybatis:jar:3.2.3</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0/javax.xml.bind:jaxb-api:jar:2.2.2/javax.xml.stream:stax-api:jar:1.0-2</node>
+            <node x="" y="">qunar.common:common-core:jar:8.2.2/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-client:jar:1.0.7/qunar.tc:common-zookeeper:jar:1.1.0</node>
+            <node x="" y="">qunar.common:common-core:jar:8.2.2/qunar.common:common-api:jar:8.2.2/com.fasterxml.jackson.core:jackson-core:jar:2.3.0</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-hdfs:jar:2.6.0/commons-daemon:commons-daemon:jar:1.0.13</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/org.apache.curator:curator-recipes:jar:2.6.0/org.apache.curator:curator-framework:jar:2.6.0</node>
+            <node x="" y="">org.unitils:unitils-spring:jar:3.3/org.unitils:unitils-database:jar:3.3/org.unitils:unitils-dbmaintainer:jar:3.3/org.dbunit:dbunit:jar:2.2.2</node>
+            <node x="" y="">qunar.tc.coreinfo:core-info-client-encrypt:jar:1.0.2/qunar.tc.coreinfo:core-info-api:jar:1.0.2</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/log4j:log4j:jar:1.2.17</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-mapreduce-client-jobclient:jar:2.6.0/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.6.0/org.apache.hadoop:hadoop-yarn-server-common:jar:2.6.0</node>
+            <node x="" y="">qunar.common:common-core:jar:8.2.2/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7</node>
+            <node x="" y="">qunar.common:common-core:jar:8.2.2/qunar.common:common-api:jar:8.2.2/org.hibernate:hibernate-validator:jar:5.0.1.Final/com.fasterxml:classmate:jar:0.8.0</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE</node>
+            <node x="" y="">qunar.common:common-core:jar:8.2.2</node>
+            <node x="" y="">org.apache.hbase:hbase-client:jar:0.98.2-hadoop2/org.apache.hadoop:hadoop-auth:jar:2.2.0</node>
+            <node x="" y="">junit:junit-dep:jar:4.10</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/org.apache.zookeeper:zookeeper:jar:3.4.6/io.netty:netty:jar:3.7.0.Final</node>
+            <node x="" y="">org.springframework:spring-tx:jar:3.1.4.RELEASE/org.springframework:spring-aop:jar:3.1.4.RELEASE</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/commons-net:commons-net:jar:3.1</node>
+            <node x="" y="">org.unitils:unitils-spring:jar:3.3</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-pig:jar:2.2.0.RELEASE/org.springframework.batch:spring-batch-core:jar:3.0.4.RELEASE/org.springframework.batch:spring-batch-infrastructure:jar:3.0.4.RELEASE/org.springframework.retry:spring-retry:jar:1.1.0.RELEASE</node>
+            <node x="" y="">org.apache.velocity:velocity:jar:1.7</node>
+            <node x="" y="">javax.servlet:jstl:jar:1.2</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0/javax.xml.bind:jaxb-api:jar:2.2.2/javax.activation:activation:jar:1.1</node>
+            <node x="" y="">org.unitils:unitils-spring:jar:3.3/org.unitils:unitils-database:jar:3.3/org.unitils:unitils-dbmaintainer:jar:3.3/org.hibernate:hibernate:jar:3.2.5.ga/asm:asm-attrs:jar:1.5.3</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:3.1.4.RELEASE/org.springframework:spring-core:jar:3.1.4.RELEASE</node>
+            <node x="" y="">org.mockito:mockito-core:jar:1.9.5/org.objenesis:objenesis:jar:1.0</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/org.apache.avro:avro:jar:1.7.4/org.xerial.snappy:snappy-java:jar:1.0.4.1</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/net.java.dev.jets3t:jets3t:jar:0.9.0/com.jamesmurty.utils:java-xmlbuilder:jar:0.4</node>
+            <node x="" y="">io.netty:netty-all:jar:4.0.24.Final</node>
+            <node x="" y="">com.qunar.security:qsso-client:jar:0.0.2</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0/org.apache.hadoop:hadoop-yarn-api:jar:2.6.0</node>
+            <node x="" y="">qunar.common:common-core:jar:8.2.2/qunar.common:common-api:jar:8.2.2/com.fasterxml.jackson.core:jackson-databind:jar:2.3.0</node>
+            <node x="" y="">org.slf4j:log4j-over-slf4j:jar:1.7.5</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-streaming:jar:2.6.0</node>
+            <node x="" y="">net.sf.json-lib:json-lib:jar:2.4</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0/com.sun.jersey.contribs:jersey-guice:jar:1.9</node>
+            <node x="" y="">xerces:xercesImpl:jar:2.11.0/xml-apis:xml-apis:jar:1.4.01</node>
+            <node x="" y="">org.apache.hbase:hbase-client:jar:0.98.2-hadoop2/commons-io:commons-io:jar:2.4</node>
+            <node x="" y="">org.unitils:unitils-spring:jar:3.3/org.unitils:unitils-database:jar:3.3/org.unitils:unitils-dbmaintainer:jar:3.3/org.hibernate:hibernate:jar:3.2.5.ga</node>
+            <node x="" y="">org.unitils:unitils-spring:jar:3.3/org.unitils:unitils-database:jar:3.3/org.unitils:unitils-dbmaintainer:jar:3.3/org.hibernate:hibernate:jar:3.2.5.ga/net.sf.ehcache:ehcache:jar:1.2.3</node>
+            <node x="" y="">org.unitils:unitils-spring:jar:3.3/org.unitils:unitils-database:jar:3.3/org.unitils:unitils-dbmaintainer:jar:3.3/org.dbunit:dbunit:jar:2.2.2/poi:poi:jar:2.5.1-final-20040804</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/commons-collections:commons-collections:jar:3.2.1</node>
+            <node x="" y="">ch.qos.logback:logback-classic:jar:1.0.13</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/javax.servlet.jsp:jsp-api:jar:2.1</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/commons-cli:commons-cli:jar:1.2</node>
+            <node x="" y="">org.unitils:unitils-spring:jar:3.3/org.springframework:spring-test:jar:3.1.4.RELEASE</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/commons-httpclient:commons-httpclient:jar:3.1</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0/com.sun.jersey:jersey-client:jar:1.9</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/net.java.dev.jets3t:jets3t:jar:0.9.0/org.apache.httpcomponents:httpcore:jar:4.3</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/xmlenc:xmlenc:jar:0.52</node>
+            <node x="" y="">org.unitils:unitils-spring:jar:3.3/org.unitils:unitils-database:jar:3.3/org.unitils:unitils-dbmaintainer:jar:3.3/org.hibernate:hibernate:jar:3.2.5.ga/antlr:antlr:jar:2.7.6</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/com.sun.jersey:jersey-server:jar:1.9/asm:asm:jar:3.1</node>
+            <node x="" y="">qunar.tc.coreinfo:core-info-client-encrypt:jar:1.0.2</node>
+            <node x="" y="">qunar.common:common-core:jar:8.2.2/qunar.common:common-lang:jar:8.2.2/qunar.common:common-concurrent:jar:8.2.2</node>
+            <node x="" y="">org.unitils:unitils-spring:jar:3.3/org.unitils:unitils-database:jar:3.3/org.unitils:unitils-dbmaintainer:jar:3.3</node>
+            <node x="" y="">org.apache.hbase:hbase-client:jar:0.98.2-hadoop2/org.apache.hadoop:hadoop-annotations:jar:2.2.0/jdk.tools:jdk.tools:jar:1.7</node>
+            <node x="" y="">qunar.common:common-core:jar:8.2.2/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-common:jar:1.0.7</node>
+            <node x="" y="">javax.servlet:servlet-api:jar:2.5</node>
+            <node x="" y="">org.springframework:spring-tx:jar:3.1.4.RELEASE/aopalliance:aopalliance:jar:1.0</node>
+            <node x="" y="">org.unitils:unitils-spring:jar:3.3/org.unitils:unitils-database:jar:3.3/commons-dbcp:commons-dbcp:jar:1.4</node>
+            <node x="" y="">org.unitils:unitils-spring:jar:3.3/org.unitils:unitils-core:jar:3.3/ognl:ognl:jar:2.6.9</node>
+            <node x="" y="">org.apache.hbase:hbase-client:jar:0.98.2-hadoop2/com.google.protobuf:protobuf-java:jar:2.5.0</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0/com.google.inject.extensions:guice-servlet:jar:3.0</node>
+            <node x="" y="">qunar.common:common-core:jar:8.2.2/qunar.common:common-api:jar:8.2.2/com.fasterxml.jackson.core:jackson-databind:jar:2.3.0/com.fasterxml.jackson.core:jackson-annotations:jar:2.3.0</node>
+            <node x="" y="">org.apache.tomcat:tomcat-jdbc:jar:7.0.30/org.apache.tomcat:tomcat-juli:jar:7.0.30</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/org.mortbay.jetty:jetty:jar:6.1.26</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0</node>
+            <node x="" y="">com.qunar.base:meerkat-mybatis:jar:2.1.0/org.mybatis:mybatis-spring:jar:1.2.1</node>
+            <node x="" y="">com.qunar.security:qsso-client:jar:0.0.2/org.apache.httpcomponents:fluent-hc:jar:4.2.3/org.apache.httpcomponents:httpclient:jar:4.3.1</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-hdfs:jar:2.6.0</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hive:jar:2.2.0.RELEASE</node>
+            <node x="" y="">qunar.common:common-rpc:jar:8.2.2/com.qunar.base:meerkat-monitor:jar:1.3.9</node>
+            <node x="" y="">org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-batch:jar:2.2.0.RELEASE</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0/com.google.inject:guice:jar:3.0/javax.inject:javax.inject:jar:1</node>
+            <node x="" y="">org.unitils:unitils-spring:jar:3.3/org.unitils:unitils-database:jar:3.3/org.unitils:unitils-dbmaintainer:jar:3.3/org.dbunit:dbunit:jar:2.2.2/junit-addons:junit-addons:jar:1.4</node>
+            <node x="" y="">org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13/org.codehaus.jackson:jackson-core-asl:jar:1.9.13</node>
+            <node x="" y="">qunar.common:common-core:jar:8.2.2/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-common:jar:1.0.7/qunar.tc.qconfig:qconfig-client:jar:1.1.2</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-mapreduce-client-jobclient:jar:2.6.0/org.apache.hadoop:hadoop-mapreduce-client-shuffle:jar:2.6.0</node>
+            <node x="" y="">xerces:xercesImpl:jar:2.11.0</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/org.apache.avro:avro:jar:1.7.4</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0/com.google.inject:guice:jar:3.0</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0/javax.xml.bind:jaxb-api:jar:2.2.2</node>
+            <node x="" y="">qunar.common:common-rpc:jar:8.2.2/com.101tec:zkclient:jar:0.3</node>
+            <node x="" y="">qunar.common:common-rpc:jar:8.2.2/qunar.common:common-blocking:jar:8.2.2</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/com.sun.jersey:jersey-core:jar:1.9</node>
+            <node x="" y="">org.unitils:unitils-spring:jar:3.3/org.unitils:unitils-core:jar:3.3</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-pig:jar:2.2.0.RELEASE/org.springframework.batch:spring-batch-core:jar:3.0.4.RELEASE/com.thoughtworks.xstream:xstream:jar:1.4.7</node>
+            <node x="" y="">org.apache.hbase:hbase-client:jar:0.98.2-hadoop2/org.apache.hbase:hbase-common:jar:0.98.2-hadoop2</node>
+            <node x="" y="">qunar.common:common-rpc:jar:8.2.2/com.qunar.base:meerkat-monitor:jar:1.3.9/com.googlecode.concurrentlinkedhashmap:concurrentlinkedhashmap-lru:jar:1.3.1</node>
+            <node x="" y="">qunar.common:common-core:jar:8.2.2/com.codahale.metrics:metrics-core:jar:3.0.2</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/tomcat:jasper-compiler:jar:5.5.23</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-distcp:jar:2.6.0</node>
+            <node x="" y="">mysql:mysql-connector-java:jar:5.1.29</node>
+            <node x="" y="">ch.qos.logback:logback-classic:jar:1.0.13/ch.qos.logback:logback-core:jar:1.0.13</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-mapreduce-client-jobclient:jar:2.6.0/org.apache.hadoop:hadoop-mapreduce-client-shuffle:jar:2.6.0/org.apache.hadoop:hadoop-yarn-server-nodemanager:jar:2.6.0</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/org.apache.curator:curator-client:jar:2.6.0</node>
+            <node x="" y="">org.apache.hbase:hbase-client:jar:0.98.2-hadoop2/com.github.stephenc.findbugs:findbugs-annotations:jar:1.3.9-1</node>
+            <node x="" y="">qunar.common:common-core:jar:8.2.2/qunar.common:common-api:jar:8.2.2</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/com.sun.jersey:jersey-json:jar:1.9/org.codehaus.jackson:jackson-xc:jar:1.8.3</node>
+            <node x="" y="">qunar.tc.coreinfo:core-info-client-encrypt:jar:1.0.2/com.qunar.corp.publicservice:corppublicservice-common:jar:1.1.3/qunar.cs:common-service-api:jar:1.0.0</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/commons-el:commons-el:jar:1.0</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/com.jcraft:jsch:jar:0.1.42</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/org.slf4j:slf4j-log4j12:jar:1.7.5</node>
+            <node x="" y="">org.springframework:spring-tx:jar:3.1.4.RELEASE</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/com.google.code.findbugs:jsr305:jar:1.3.9</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-pig:jar:2.2.0.RELEASE/org.springframework.batch:spring-batch-core:jar:3.0.4.RELEASE/com.ibm.jbatch:com.ibm.jbatch-tck-spi:jar:1.0</node>
+            <node x="" y="">qunar.common:common-web:jar:8.2.2</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/org.apache.zookeeper:zookeeper:jar:3.4.6</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:3.1.4.RELEASE/org.springframework:spring-expression:jar:3.1.4.RELEASE</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/com.google.code.gson:gson:jar:2.2.4</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-pig:jar:2.2.0.RELEASE/org.springframework.batch:spring-batch-core:jar:3.0.4.RELEASE/com.thoughtworks.xstream:xstream:jar:1.4.7/xmlpull:xmlpull:jar:1.1.3.1</node>
+            <node x="" y="">org.apache.hbase:hbase-client:jar:0.98.2-hadoop2/commons-codec:commons-codec:jar:1.8</node>
+            <node x="" y="">qunar.common:common-rpc:jar:8.2.2/com.alibaba:fastjson:jar:1.1.35</node>
+            <node x="" y="">qunar.common:common-rpc:jar:8.2.2/com.qunar.dubbo:dubbo:jar:3.1.4/org.javassist:javassist:jar:3.18.0-GA</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/org.apache.commons:commons-math3:jar:3.1.1</node>
+            <node x="" y="">qunar.common:common-core:jar:8.2.2/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-common:jar:1.0.7/qunar.tc.qconfig:qconfig-client:jar:1.1.2/qunar.tc.qconfig:qconfig-common:jar:1.1.2</node>
+            <node x="" y="">qunar.common:common-rpc:jar:8.2.2/qunar.common:common-blocking:jar:8.2.2/org.apache.commons:commons-csv:jar:1.1</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/commons-configuration:commons-configuration:jar:1.6/commons-beanutils:commons-beanutils-core:jar:1.8.0</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/org.mortbay.jetty:jetty-util:jar:6.1.26</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:3.1.4.RELEASE/org.springframework:spring-context:jar:3.1.4.RELEASE</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/org.apache.curator:curator-recipes:jar:2.6.0</node>
+            <node x="" y="">org.unitils:unitils-spring:jar:3.3/org.unitils:unitils-database:jar:3.3</node>
+            <node x="" y="">cglib:cglib:jar:2.2.2</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:3.1.4.RELEASE/org.springframework:spring-asm:jar:3.1.4.RELEASE</node>
+            <node x="" y="">qunar.tc.coreinfo:core-info-client-encrypt:jar:1.0.2/com.qunar.corp.publicservice:corppublicservice-common:jar:1.1.3</node>
+            <node x="" y="">qunar.common:common-core:jar:8.2.2/qunar.common:common-api:jar:8.2.2/org.hibernate:hibernate-validator:jar:5.0.1.Final</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-pig:jar:2.2.0.RELEASE/org.springframework.batch:spring-batch-core:jar:3.0.4.RELEASE</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/org.htrace:htrace-core:jar:3.0.4</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-pig:jar:2.2.0.RELEASE/org.springframework.batch:spring-batch-core:jar:3.0.4.RELEASE/org.springframework.batch:spring-batch-infrastructure:jar:3.0.4.RELEASE</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/com.sun.jersey:jersey-json:jar:1.9</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-core:jar:2.2.0.RELEASE</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/commons-configuration:commons-configuration:jar:1.6</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/tomcat:jasper-runtime:jar:5.5.23</node>
+            <node x="" y="">qunar.common:common-core:jar:8.2.2/qunar.common:common-lang:jar:8.2.2</node>
+            <node x="" y="">org.mockito:mockito-core:jar:1.9.5</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:3.1.4.RELEASE/org.springframework:spring-context-support:jar:3.1.4.RELEASE</node>
+            <node x="" y="">com.google.guava:guava:jar:15.0</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/org.apache.avro:avro:jar:1.7.4/com.thoughtworks.paranamer:paranamer:jar:2.3</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/com.sun.jersey:jersey-json:jar:1.9/com.sun.xml.bind:jaxb-impl:jar:2.2.3-1</node>
+            <node x="" y="">org.apache.hbase:hbase-client:jar:0.98.2-hadoop2</node>
+            <node x="" y="">qunar.tc.coreinfo:core-info-client-decrypt:jar:1.0.2</node>
+            <node x="" y="">qunar.common:common-core:jar:8.2.2/qunar.common:common-api:jar:8.2.2/org.hibernate:hibernate-validator:jar:5.0.1.Final/org.jboss.logging:jboss-logging:jar:3.1.1.GA</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-mapreduce-client-jobclient:jar:2.6.0</node>
+            <node x="" y="">qunar.common:common-rpc:jar:8.2.2/com.qunar.dubbo:dubbo:jar:3.1.4</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:3.1.4.RELEASE</node>
+            <node x="" y="">org.apache.hbase:hbase-client:jar:0.98.2-hadoop2/org.apache.hbase:hbase-protocol:jar:0.98.2-hadoop2</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-pig:jar:2.2.0.RELEASE</node>
+            <node x="" y="">qunar.common:common-core:jar:8.2.2/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-client:jar:1.0.7</node>
+            <node x="" y="">org.springframework:spring-jdbc:jar:3.1.4.RELEASE</node>
+            <node x="" y="">com.qunar.security:qsso-client:jar:0.0.2/org.apache.httpcomponents:fluent-hc:jar:4.2.3</node>
+            <node x="" y="">joda-time:joda-time:jar:2.7</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0</node>
+            <node x="" y="">org.slf4j:jcl-over-slf4j:jar:1.7.5</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/com.sun.jersey:jersey-json:jar:1.9/org.codehaus.jackson:jackson-jaxrs:jar:1.8.3</node>
+            <node x="" y="">net.sf.json-lib:json-lib:jar:2.4/commons-beanutils:commons-beanutils:jar:1.8.3.fix</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/org.apache.commons:commons-compress:jar:1.4.1</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:3.1.4.RELEASE/org.springframework:spring-web:jar:3.1.4.RELEASE</node>
+            <node x="" y="">com.qunar.trainDemo:Demo:1.0-SNAPSHOT</node>
+            <node x="" y="">org.apache.hadoop:hadoop-common:jar:2.6.0/org.apache.commons:commons-compress:jar:1.4.1/org.tukaani:xz:jar:1.0</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-mapreduce-client-jobclient:jar:2.6.0/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.6.0</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:3.1.4.RELEASE/org.springframework:spring-beans:jar:3.1.4.RELEASE</node>
+            <node x="" y="">com.qunar.base:meerkat-mybatis:jar:2.1.0/com.qunar.base:meerkat-dao:jar:2.1.0</node>
+            <node x="" y="">qunar.common:common-rpc:jar:8.2.2</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-pig:jar:2.2.0.RELEASE/org.springframework.batch:spring-batch-core:jar:3.0.4.RELEASE/com.ibm.jbatch:com.ibm.jbatch-tck-spi:jar:1.0/javax.batch:javax.batch-api:jar:1.0</node>
+            <node x="" y="">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-mapreduce-client-jobclient:jar:2.6.0/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.6.0/org.apache.hadoop:hadoop-yarn-client:jar:2.6.0</node>
+            <node x="" y="">net.sf.json-lib:json-lib:jar:2.4/net.sf.ezmorph:ezmorph:jar:1.0.6</node>
+            <node x="" y="">net.sf.json-lib:json-lib:jar:2.4/commons-lang:commons-lang:jar:2.5</node>
+            <node x="" y="">org.slf4j:slf4j-api:jar:1.7.5</node>
+            <node x="" y="">qunar.common:common-core:jar:8.2.2/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-common:jar:1.0.7/qunar.tc.qconfig:qconfig-client:jar:1.1.2/com.ning:async-http-client:jar:1.8.11</node>
+            <node x="" y="">net.sourceforge.jtds:jtds:jar:1.2.7</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.9142034548944337" x="643.0" y="4048.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hbase.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="196.6" vertical-offset="7104" max-vertical-offset="8910">
+          <caret line="67" column="27" selection-start-line="67" selection-start-column="27" selection-end-line="67" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources.dev/spring/spring-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.36" vertical-offset="907" max-vertical-offset="1368">
+          <caret line="62" column="42" selection-start-line="62" selection-start-column="42" selection-end-line="62" selection-end-column="42" />
+          <folding>
+            <element signature="e#3406#3424#0" expanded="true" />
+            <element signature="e#3462#3480#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="55" max-vertical-offset="1242">
+          <caret line="52" column="20" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/avalon.modern.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20334928" vertical-offset="26249" max-vertical-offset="137808">
+          <caret line="1470" column="28" selection-start-line="1470" selection-start-column="28" selection-end-line="1470" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/avalon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.179054" vertical-offset="57983" max-vertical-offset="155232">
+          <caret line="3169" column="32" selection-start-line="3169" selection-start-column="32" selection-end-line="3169" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/Demo/js/avalon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.525" vertical-offset="0" max-vertical-offset="120420">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="972" max-vertical-offset="1782">
+          <caret line="70" column="55" selection-start-line="70" selection-start-column="52" selection-end-line="70" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/qunar/ssm/model/LogModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="164" max-vertical-offset="1278">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/3.1.4.RELEASE/spring-webmvc-3.1.4.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3320158" vertical-offset="15738" max-vertical-offset="22104">
+          <caret line="942" column="0" selection-start-line="942" selection-start-column="0" selection-end-line="942" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/3.1.4.RELEASE/spring-web-3.1.4.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3426" max-vertical-offset="4230">
+          <caret line="226" column="0" selection-start-line="226" selection-start-column="0" selection-end-line="226" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-common/0.98.5-hadoop2/hbase-common-0.98.5-hadoop2-sources.jar!/org/apache/hadoop/hbase/CellUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23589744" vertical-offset="1564" max-vertical-offset="7452">
+          <caret line="119" column="20" selection-start-line="119" selection-start-column="20" selection-end-line="119" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-hadoop-hbase/2.2.0.RELEASE/spring-data-hadoop-hbase-2.2.0.RELEASE-sources.jar!/org/springframework/data/hadoop/hbase/RowMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24087591" vertical-offset="0" max-vertical-offset="822">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/java/jdk1.7.0_40/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24695864" vertical-offset="9715" max-vertical-offset="21474">
+          <caret line="580" column="26" selection-start-line="580" selection-start-column="26" selection-end-line="580" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/java/jdk1.7.0_40/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.097323604" vertical-offset="7282" max-vertical-offset="54180">
+          <caret line="448" column="11" selection-start-line="448" selection-start-column="11" selection-end-line="448" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-common/0.98.5-hadoop2/hbase-common-0.98.5-hadoop2-sources.jar!/org/apache/hadoop/hbase/util/Bytes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5572" max-vertical-offset="35604">
+          <caret line="379" column="18" selection-start-line="379" selection-start-column="18" selection-end-line="379" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/qunar/ssm/controll/TmpController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="961" max-vertical-offset="1458">
+          <caret line="73" column="9" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/qunar/ssm/util/HBaseAccessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="1422">
+          <caret line="32" column="40" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/qunar/ssm/service/LogService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="396">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/qunar/ssm/service/HBaseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="48" max-vertical-offset="558">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18113208" vertical-offset="0" max-vertical-offset="795">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="504" max-vertical-offset="720">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/qunar/ssm/service/imp/HBaseServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.87323946" vertical-offset="724" max-vertical-offset="1584">
+          <caret line="54" column="48" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2032#2392#0" expanded="true" />
+            <element signature="e#2391#2392#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Demo:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|Demo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

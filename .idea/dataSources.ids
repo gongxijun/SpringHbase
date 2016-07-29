@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="MySQL - cdata@localhost" uuid="ac809bb2-5f81-469e-ba57-dbaa20d35bb2">
+    <database-info product="MySQL" version="5.6.30-0ubuntu0.14.04.1-log" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+      <extra-name-characters>#@</extra-name-characters>
+      <identifier-quote-string>`</identifier-quote-string>
+    </database-info>
+    <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact"/>
+    <schema name="" catalog="cdata"/>
+    <table name="tmp_log" schema="" catalog="cdata" type="TABLE">
+      <column name="id" sqlType="INT UNSIGNED" precision="10" scale="0" nullable="false" jdbcType="4" autoIncrement="true"/>
+      <column name="url" sqlType="VARCHAR" precision="200" scale="0" nullable="true" jdbcType="12" def="Jyc=" remarks="6ZO+5o6l"/>
+      <column name="userName" sqlType="VARCHAR" precision="200" scale="0" nullable="true" jdbcType="12" def="Jyc=" remarks="55So5oi35ZCN"/>
+      <primary-key name="PRIMARY" columns="id"/>
+    </table>
+  </data-source>
+</component>

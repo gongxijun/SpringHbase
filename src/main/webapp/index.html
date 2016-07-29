@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'/>
+    <title>你好～</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <script src="js/avalon.js"></script>
+    <script>
+        avalon.ready(function () {
+            avalon.define({
+                $id: "hello",
+                name: "AllLnOne"
+            });
+            avalon.define({
+                $id: "aaa",
+                name: "gong xijun"
+            });
+            avalon.scan();
+        });
+    </script>
+
+</head>
+<body>
+<div>
+    <div ms-controller="hello">
+        <div>Hello, {{name}}</div>
+    </div>
+    <div ms-important="aaa">
+        <div>{{name}}</div>
+        <input type="text" ms-value="name">
+        <textarea ms-value="{{name+'!!'}}"></textarea>
+    </div>
+</div>
+</body>
+</html>
