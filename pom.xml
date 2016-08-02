@@ -8,12 +8,15 @@
     </parent>
     <name>Demo Maven Webapp</name>
     <url>http://maven.apache.org</url>
+    <modules>
+        <module>hiveDemo</module>
+    </modules>
 
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.qunar.trainDemo</groupId>
     <artifactId>Demo</artifactId>
-    <packaging>war</packaging>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -37,10 +40,18 @@
         <org.mockito.version>1.9.5</org.mockito.version>
         <qunar.tc.coreinfo.version>1.0.2</qunar.tc.coreinfo.version>
         <org.unitils.version>3.3</org.unitils.version>
+        <guava.version>19.0</guava.version>
     </properties>
 
     <dependencyManagement>
         <dependencies>
+
+            <dependency>
+                <groupId>junit</groupId>
+                <artifactId>junit</artifactId>
+                <version>3.8.1</version>
+            </dependency>
+
             <dependency>
                 <groupId>net.sourceforge.jexcelapi</groupId>
                 <artifactId>jxl</artifactId>
@@ -71,6 +82,7 @@
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
+            <version>${guava.version}</version>
         </dependency>
         <dependency>
             <groupId>joda-time</groupId>
@@ -483,7 +495,8 @@
         </dependency>
     </dependencies>
 
-    <build>
-        <finalName>Demo</finalName>
-    </build>
+
+<build>
+<finalName>Demo</finalName>
+</build>
 </project>

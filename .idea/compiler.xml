@@ -23,11 +23,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="Demo" />
+        <module name="hiveDemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Demo" target="1.6" />
+      <module name="hiveDemo" target="1.6" />
       <module name="trainDemo" target="1.6" />
     </bytecodeTargetLevel>
   </component>

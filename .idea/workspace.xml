@@ -49,146 +49,168 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/lib/snappy-java-1.0.4.1.jar" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/lib/velocity-1.7.jar" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/Java/com/qunar/guavaDemo/cache/AppConfigA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/Java/com/qunar/guavaDemo/cache/AppContext.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../java_avalon-master/AvalonProject.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/Java/com/qunar/guavaDemo/cache/Book.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/Java/com/qunar/guavaDemo/cache/BookAppA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/Java/com/qunar/guavaDemo/cache/CacheDemoA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Demo/Calculates.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/src/main/Java/com/qunar/demo/hbase/CreateHBaseTable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Demo.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Demo1.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/src/main/Java/com/qunar/demo/flume/DemoFlume.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/Java/com/qunar/guavaDemo/cache/DemoMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Demo_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Demo_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Demo/Frog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Demo/FruitName.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/util/HBaseAccessor.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/src/main/Java/com/qunar/demo/hbase/HBaseClientDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/service/HBaseService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/service/imp/HBaseServiceImp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Demo/Inheriting.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/src/main/Java/com/qunar/data/bus/apply/util/constant/HBaseConstant.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/src/main/Java/com/qunar/data/bus/apply/dao/HBase/HBaseDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/src/main/Java/com/qunar/data/bus/apply/dao/HBase/imp/HbaseDaoImp.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/src/main/Java/com/qunar/demo/KafkaHBaseConsumer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/dao/LogDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/model/LogModel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/service/LogService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/service/imp/LogServiceImp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Demo/LostMessage.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/MANIFEST.MF" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Main1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Main2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Main3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/logback/MapReduceDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hiveDemo/src/main/java/com/qunar/mapReduce/MapReduceDemo.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__ant_ant_1_6_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__antlr_antlr_2_7_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__apache_httpclient_commons_httpclient_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__asm_asm_3_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__asm_asm_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__asm_asm_attrs_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__cglib_cglib_2_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_0_13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__ch_qos_logback_logback_core_1_0_13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__com_101tec_zkclient_0_3.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_101tec_zkclient_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_0_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_1_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__com_alibaba_fastjson_1_1_35.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__com_codahale_metrics_metrics_core_3_0_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__com_fasterxml_classmate_0_8_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_3_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_3_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_3_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__com_github_stephenc_findbugs_findbugs_annotations_1_3_9_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_github_stephenc_findbugs_findbugs_annotations_1_3_9_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_github_stephenc_high_scale_lib_high_scale_lib_1_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_google_code_gson_gson_2_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__com_google_code_gson_gson_2_2_4.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__com_google_inject_extensions_guice_servlet_3_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_google_inject_extensions_guice_servlet_3_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__com_google_inject_guice_3_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_google_inject_guice_3_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_5_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_aviator_aviator_2_3_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_concurrent_trees_concurrent_trees_1_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__com_googlecode_concurrentlinkedhashmap_concurrentlinkedhashmap_lru_1_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__com_googlecode_libphonenumber_libphonenumber_7_0_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__com_ibm_jbatch_com_ibm_jbatch_tck_spi_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__com_jamesmurty_utils_java_xmlbuilder_0_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__com_jcraft_jsch_0_1_42.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_jcraft_jsch_0_1_42.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ning_async_http_client_1_9_31.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qunar_base_meerkat_common_2_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qunar_base_meerkat_mybatis_2_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qunar_base_meerkat_web_2_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qunar_corp_publicservice_corppublicservice_api_1_1_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qunar_corp_publicservice_corppublicservice_common_1_1_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qunar_corp_publicservice_oig_client_1_1_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qunar_corpdev_commons_0_1_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qunar_db_dbaccess_1_7_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qunar_db_zkclient_1_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qunar_dubbo_dubbo_3_1_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qunar_hotel_engine_1_3_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qunar_hotel_qmonitor_1_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qunar_qtown_privilege_acr_1_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qunar_qtown_privilege_api_1_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qunar_security_qsso_client_0_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qunar_security_qsso_client_0_0_3_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__com_ning_async_http_client_1_8_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__com_qunar_base_meerkat_dao_2_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__com_qunar_base_meerkat_monitor_1_3_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__com_qunar_base_meerkat_mybatis_2_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__com_qunar_corp_publicservice_corppublicservice_common_1_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__com_qunar_dubbo_dubbo_3_1_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__com_qunar_security_qsso_client_0_0_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_guice_1_9.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_guice_1_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_9.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_9.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_9.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_sun_jersey_jersey_grizzly2_1_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__com_sun_jersey_jersey_json_1_9.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_sun_jersey_jersey_json_1_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_9.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_9.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_sun_jersey_jersey_test_framework_jersey_test_framework_core_1_9.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_sun_jersey_jersey_test_framework_jersey_test_framework_grizzly2_1_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_3.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_7.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_yammer_metrics_metrics_core_2_1_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__com_yammer_metrics_metrics_core_2_2_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_3_fix.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_codec_commons_codec_1_4.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_codec_commons_codec_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__commons_codec_commons_codec_1_8.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_codec_commons_codec_1_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__commons_daemon_commons_daemon_1_0_13.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_daemon_commons_daemon_1_0_13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__commons_el_commons_el_1_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_el_commons_el_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_io_commons_io_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_net_commons_net_1_4_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__commons_net_commons_net_3_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__commons_net_commons_net_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__commons_pool_commons_pool_1_5_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__hsqldb_hsqldb_1_8_0_7.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__io_netty_netty_3_5_12_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_9_5_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__io_netty_netty_3_6_2_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__javax_activation_activation_1_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__javax_activation_activation_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__javax_batch_javax_batch_api_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_mail_mail_1_4_5.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__javax_servlet_jsp_api_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__jline_jline_0_9_94.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__joda_time_joda_time_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__joda_time_joda_time_2_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__junit_addons_junit_addons_1_4.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__junit_junit_dep_4_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_38.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_29.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__net_java_dev_jets3t_jets3t_0_6_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__net_java_dev_jets3t_jets3t_0_9_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__net_jpountz_lz4_lz4_1_3_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__net_sf_ehcache_ehcache_1_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__net_sf_ezmorph_ezmorph_1_0_6.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_opencsv_opencsv_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_supercsv_super_csv_2_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_trove4j_trove4j_3_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_jexcelapi_jxl_2_6_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__net_sf_json_lib_json_lib_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__net_sourceforge_jtds_jtds_1_2_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__ognl_ognl_2_6_9.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_avro_avro_1_7_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_apache_avro_avro_1_7_4.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_avro_avro_ipc_1_7_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_apache_commons_commons_csv_1_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_apache_commons_commons_math3_3_1_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_commons_commons_math_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_apache_curator_curator_client_2_6_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_apache_curator_curator_framework_2_6_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_apache_curator_curator_recipes_2_6_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_flume_flume_ng_configuration_1_4_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_flume_flume_ng_configuration_1_5_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_flume_flume_ng_core_1_4_0.xml" />
@@ -196,77 +218,99 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_flume_flume_ng_sdk_1_5_0_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_flume_flume_ng_sinks_flume_ng_elasticsearch_sink_1_4_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_flume_flume_ng_sinks_flume_ng_elasticsearch_sink_1_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_2_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_6_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_2_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_2_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_client_2_1_0_beta.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_2_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_2_6_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_core_0_20_2_cdh3u3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_apache_hadoop_hadoop_distcp_2_6_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_2_1_0_beta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_2_6_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_test_jar_tests_2_1_0_beta.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_app_2_1_0_beta.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_common_2_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_common_2_6_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_core_2_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_core_2_6_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_6_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_test_jar_tests_2_1_0_beta.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_6_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_apache_hadoop_hadoop_streaming_2_6_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_api_2_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_api_2_6_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_client_2_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_client_2_6_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_common_2_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_common_2_6_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_common_2_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_common_2_6_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_nodemanager_2_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_nodemanager_2_6_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hadoop_thirdparty_guava_guava_r09_jarjar.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hbase_hbase_client_0_96_0_hadoop2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_apache_hbase_hbase_client_0_98_5_hadoop2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hbase_hbase_client_0_98_5_hadoop2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hbase_hbase_common_0_96_0_hadoop2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_apache_hbase_hbase_common_0_98_5_hadoop2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hbase_hbase_common_0_98_5_hadoop2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hbase_hbase_hadoop2_compat_0_96_0_hadoop2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hbase_hbase_hadoop_compat_0_96_0_hadoop2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hbase_hbase_it_0_96_0_hadoop2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hbase_hbase_prefix_tree_0_96_0_hadoop2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hbase_hbase_protocol_0_96_0_hadoop2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_apache_hbase_hbase_protocol_0_98_5_hadoop2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hbase_hbase_protocol_0_98_5_hadoop2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hbase_hbase_server_0_96_0_hadoop2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_hbase_hbase_shell_0_96_0_hadoop2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_apache_httpcomponents_fluent_hc_4_2_3.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_0_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_2_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_2_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_kafka_kafka_2_10_0_8_2_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_kafka_kafka_2_9_2_0_10_0_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_kafka_kafka_2_9_2_0_8_1_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_kafka_kafka_clients_0_10_0_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_mina_mina_core_2_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_9.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_thrift_libthrift_0_7_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_thrift_libthrift_0_9_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_7_0_30.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_7_0_30.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_apache_velocity_velocity_1_7.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_velocity_velocity_1_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_5_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk16_1_46.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_cloudera_htrace_htrace_core_2_01.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_cloudera_htrace_htrace_core_2_04.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_cloudera_htrace_htrace_core_2_04.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_5_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_8_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_lgpl_1_9_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_8_3.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_8_3.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_5_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_8_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_lgpl_1_9_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_8_3.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_8_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_dbunit_dbunit_2_2_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_eclipse_jdt_core_3_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_fusesource_leveldbjni_leveldbjni_all_1_8.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_glassfish_external_management_api_3_0_0_b012.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_glassfish_gmbal_gmbal_api_only_3_0_0_b023.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_glassfish_grizzly_grizzly_framework_2_1_2.xml" />
@@ -275,128 +319,233 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_glassfish_grizzly_grizzly_http_servlet_2_1_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_glassfish_grizzly_grizzly_rcm_2_1_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_glassfish_javax_servlet_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_hibernate_hibernate_3_2_5_ga.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_0_1_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_htrace_htrace_core_3_0_4.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_jamon_jamon_runtime_2_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javaswift_joss_0_9_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_javassist_javassist_3_18_0_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_1_GA.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_jruby_jruby_complete_1_6_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_mockito_mockito_core_1_9_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_26.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_26.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_mortbay_jetty_jetty_sslengine_6_1_26.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_mortbay_jetty_jsp_2_1_6_1_14.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_mortbay_jetty_jsp_api_2_1_6_1_14.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_mortbay_jetty_servlet_api_2_5_20081211.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_mortbay_jetty_servlet_api_2_5_20110124.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_mortbay_jetty_servlet_api_2_5_6_1_14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_4_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_mybatis_mybatis_3_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_objenesis_objenesis_1_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_scala_lang_scala_library_2_10_4.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_scala_lang_scala_library_2_9_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_5.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_slf4j_slf4j_api_1_5_8.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_batch_spring_batch_core_3_0_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_batch_spring_batch_infrastructure_3_0_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_hadoop_2_6_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_1_8_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_springframework_batch_spring_batch_core_3_0_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_springframework_batch_spring_batch_infrastructure_3_0_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_springframework_data_spring_data_hadoop_2_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_springframework_data_spring_data_hadoop_batch_2_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_springframework_data_spring_data_hadoop_core_2_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_springframework_data_spring_data_hadoop_hbase_2_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_springframework_data_spring_data_hadoop_hive_2_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_springframework_data_spring_data_hadoop_pig_2_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_1_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_springframework_spring_aop_3_1_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_springframework_spring_asm_3_1_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_springframework_spring_beans_3_1_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_springframework_spring_context_3_1_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_springframework_spring_context_support_3_1_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_springframework_spring_core_3_1_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_springframework_spring_expression_3_1_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_springframework_spring_jdbc_3_1_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_springframework_spring_test_3_1_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_springframework_spring_tx_3_1_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_springframework_spring_web_3_1_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_springframework_spring_webmvc_3_1_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_tukaani_xz_1_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_tukaani_xz_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_unitils_unitils_core_3_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_unitils_unitils_database_3_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_unitils_unitils_dbmaintainer_3_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_unitils_unitils_spring_3_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_0_4_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_0_4_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_2_4.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__oro_oro_2_0_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_common_common_api_8_2_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_common_common_blocking_8_2_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_common_common_concurrent_8_2_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_common_common_core_8_2_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_common_common_http_8_2_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_common_common_lang_8_2_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_common_common_rpc_8_2_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_common_common_web_8_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_common_common_web_8_2_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_tc_coreinfo_core_info_client_encrypt_1_9_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_tc_qconfig_qconfig_client_1_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_tc_qconfig_qconfig_common_1_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_tc_qmq_api_2_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_tc_qmq_client_2_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_tc_qmq_common_2_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_tc_qschedule_qschedule_api_1_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_tc_qschedule_qschedule_client_1_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_tc_qschedule_qschedule_common_1_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_tc_qschedule_qschedule_config_1_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_tc_qschedule_qschedule_config_api_1_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qunar_tc_qschedule_qschedule_executor_1_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_6_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__poi_poi_2_5_1_final_20040804.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__qunar_common_common_api_8_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__qunar_common_common_blocking_8_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__qunar_common_common_concurrent_8_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__qunar_common_common_core_8_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__qunar_common_common_lang_8_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__qunar_common_common_rpc_8_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__qunar_common_common_web_8_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__qunar_cs_common_service_api_1_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__qunar_tc_common_zookeeper_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__qunar_tc_coreinfo_core_info_api_1_0_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__qunar_tc_coreinfo_core_info_client_decrypt_1_0_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__qunar_tc_coreinfo_core_info_client_encrypt_1_0_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__qunar_tc_qconfig_qconfig_client_1_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__qunar_tc_qconfig_qconfig_common_1_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__qunar_tc_qtracer_qtracer_client_1_0_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__qunar_tc_qtracer_qtracer_common_1_0_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__qunar_tc_qtracer_qtracer_instrument_http_1_0_7.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__tomcat_jasper_compiler_5_5_23.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__tomcat_jasper_runtime_5_5_23.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__tomcat_jasper_runtime_5_5_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_9_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__xmlenc_xmlenc_0_52.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/Maven__xmlenc_xmlenc_0_52.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Demo/MyException1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/src/main/Java/com/qunar/demo/flume/MyRpcClientFacade.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Demo/Orange.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Demo/Orange.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Demo/SandWitch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Demo/Serial.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Demo/TestAll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/controll/TmpController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/avalon.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/avalon.modern.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/avalon.next.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/avalon.test.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/compiler.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../java_avalon-master/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/encodings.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../java_avalon-master/.idea/encodings.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/flume.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/artifacts/flume_jar.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/artifacts/flume_war.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/artifacts/flume_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/gongxijun.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/hbase.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/src/main/resources/hbase.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hiveDemo/hiveDemo.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/src/main/webapp/index.jsp" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/index.jsp" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/libraries/lib.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/jsp/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/src/main/resources/logback.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/misc.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../java_avalon-master/.idea/misc.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/modules.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../java_avalon-master/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/src/main/resources/mybatis-config.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hiveDemo/pom.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/copyright/profiles_settings.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../java_avalon-master/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/qunar-app.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/src/main/resources/qunar-app.properties" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/scopes/scope_settings.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../java_avalon-master/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources.dev/spring/spring-mybatis.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources.dev/sqldb.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/mapper/tmpLog.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/trainDemo_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/trainDemo_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/src/main/resources/spring-mvc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/src/main/resources.beta/spring/spring-mybatis.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/src/main/resources.dev/spring/spring-mybatis.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/src/main/resources.local/spring/spring-mybatis.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/src/main/resources.prod/spring/spring-mybatis.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/src/main/resources.dev/sqldb.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../allinone/.idea/uiDesigner.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../java_avalon-master/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/src/main/webapp/WEB-INF/web.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/target/flume/WEB-INF/web.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../flume/.idea/workspace.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../java_avalon-master/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Demo.iml" afterPath="$PROJECT_DIR$/Demo.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/service/imp/HBaseServiceImp.java" afterPath="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/service/imp/HBaseServiceImp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <list id="2d87cf3b-813b-409a-ab16-eac5f387cf0e" name="Rejected commit: Default" comment="" />
+    <list id="c82c97fe-1ee8-4fff-9618-1bddd235cea2" name="Rejected commit: Default (2)" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Demo/WEB-INF/classes/com/qunar/guavaDemo/cache/AppContext.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Demo/WEB-INF/classes/com/qunar/guavaDemo/cache/Book.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Demo/WEB-INF/classes/com/qunar/guavaDemo/cache/BookAppA.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Demo/WEB-INF/classes/com/qunar/ssm/controll/TmpController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Demo/WEB-INF/classes/com/qunar/ssm/dao/LogDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Demo/WEB-INF/classes/com/qunar/ssm/model/LogModel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Demo/WEB-INF/classes/com/qunar/ssm/service/HBaseService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Demo/WEB-INF/classes/com/qunar/ssm/service/LogService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Demo/WEB-INF/classes/com/qunar/ssm/service/imp/HBaseServiceImp$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Demo/WEB-INF/classes/com/qunar/ssm/service/imp/HBaseServiceImp$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Demo/WEB-INF/classes/com/qunar/ssm/service/imp/HBaseServiceImp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Demo/WEB-INF/classes/com/qunar/ssm/service/imp/LogServiceImp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Demo/WEB-INF/classes/com/qunar/ssm/util/HBaseAccessor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Demo/WEB-INF/classes/spring/spring-mybatis.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Demo/WEB-INF/classes/sqldb.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Demo/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Demo/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Demo/js/avalon.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Demo/js/avalon.modern.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Demo/js/avalon.next.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Demo/js/avalon.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Demo/jsp/login.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/qunar/guavaDemo/cache/AppContext.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/qunar/guavaDemo/cache/Book.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/qunar/guavaDemo/cache/BookAppA.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/qunar/ssm/controll/TmpController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/qunar/ssm/dao/LogDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/qunar/ssm/model/LogModel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/qunar/ssm/service/HBaseService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/qunar/ssm/service/LogService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/qunar/ssm/service/imp/HBaseServiceImp$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/qunar/ssm/service/imp/HBaseServiceImp$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/qunar/ssm/service/imp/HBaseServiceImp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/qunar/ssm/service/imp/LogServiceImp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/qunar/ssm/util/HBaseAccessor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/spring/spring-mybatis.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/sqldb.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Demo/Amphibian.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Demo/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Demo/Bread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Demo/Calculates$Sum$BuilderSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Demo/Calculates$Sum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Demo/Calculates.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Demo/Characteristic.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Demo/Cheese.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Demo/DoBaseFinalization.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Demo/Frog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Demo/FruitColor$Color.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Demo/FruitColor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Demo/FruitName.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Demo/HoHumException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Demo/Inheriting.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Demo/Lettuce.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Demo/LivingCreature.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Demo/LostMessage$Builder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Demo/LostMessage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Demo/Lunch.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Demo/Meal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Demo/MyException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Demo/MyException1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Demo/Orange.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Demo/Orange.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Demo/PortableLunch.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Demo/Sandwich.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Demo/Serial.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Demo/TestAll.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Demo/VeryImportantException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Demo1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/LruCache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Main2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Main3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Node.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/logback/MapReduceDemo$Map.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/logback/MapReduceDemo$Reduce.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/logback/MapReduceDemo.class" afterPath="" />
     </list>
     <ignored path="trainDemo.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path=".idea/dataSources.local.xml" />
+    <ignored path="$PROJECT_DIR$/hiveDemo/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -442,25 +591,107 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="HBaseServiceImp.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HBaseServiceImp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/Java/com/qunar/ssm/service/imp/HBaseServiceImp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.87323946" vertical-offset="724" max-vertical-offset="1584">
-              <caret line="54" column="48" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="48" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1476">
+              <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HbaseTemplate.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-hadoop-hbase/2.2.0.RELEASE/spring-data-hadoop-hbase-2.2.0.RELEASE-sources.jar!/org/springframework/data/hadoop/hbase/HbaseTemplate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="594" max-vertical-offset="3726">
+              <caret line="59" column="59" selection-start-line="59" selection-start-column="59" selection-end-line="59" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TmpController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/Java/com/qunar/ssm/controll/TmpController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.56532663" vertical-offset="54" max-vertical-offset="1206">
+              <caret line="42" column="10" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hbase.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/hbase.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
+              <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logback.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1242">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HBaseAccessor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Java/com/qunar/ssm/util/HBaseAccessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="164" max-vertical-offset="1422">
+              <caret line="32" column="40" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="40" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2032#2392#0" expanded="true" />
-                <element signature="e#2391#2392#0" expanded="true" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#2111#2112#0" expanded="false" />
+                <element signature="e#2182#2183#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <file leaf-file-name="LogDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Java/com/qunar/ssm/dao/LogDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="504" max-vertical-offset="720">
-              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HBaseService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Java/com/qunar/ssm/service/HBaseService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="558">
+              <caret line="22" column="64" selection-start-line="19" selection-start-column="0" selection-end-line="22" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spring-mybatis.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources.dev/spring/spring-mybatis.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.96" vertical-offset="202" max-vertical-offset="1368">
+              <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -469,13 +700,11 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/resources.dev/spring/dao.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources.dev/spring/service.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/mapper/tmpLog.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/mybatis.xml" />
         <option value="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/util/Coolumn.java" />
@@ -490,7 +719,6 @@
         <option value="$PROJECT_DIR$/src/test/Demo/Orange.java" />
         <option value="$PROJECT_DIR$/src/main/Java/com/qunar/guavaDemo/cache/BookAppA.java" />
         <option value="$PROJECT_DIR$/src/test/Demo/Demoq.java" />
-        <option value="$PROJECT_DIR$/src/test/Demo/Orange.xml" />
         <option value="$PROJECT_DIR$/src/test/Demo/SandWitch.java" />
         <option value="$PROJECT_DIR$/src/test/Demo/Frog.java" />
         <option value="$PROJECT_DIR$/src/test/Demo/Inheriting.java" />
@@ -513,7 +741,6 @@
         <option value="$PROJECT_DIR$/src/main/Java/com/qunar/guavaDemo/cache/DemoMain.java" />
         <option value="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/service/imp/LogServiceImp.java" />
         <option value="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources.dev/spring/spring-mybatis.xml" />
         <option value="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/util/HBaseAccessor.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
@@ -524,7 +751,11 @@
         <option value="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/model/LogModel.java" />
         <option value="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/service/HBaseService.java" />
         <option value="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/controll/TmpController.java" />
+        <option value="$PROJECT_DIR$/src/test/Demo/Orange.xml" />
         <option value="$PROJECT_DIR$/src/main/Java/com/qunar/ssm/service/imp/HBaseServiceImp.java" />
+        <option value="$PROJECT_DIR$/hiveDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/hiveDemo/src/main/java/com/qunar/mapReduce/MapReduceDemo.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -544,11 +775,6 @@
         <option name="mavenHome" value="$USER_HOME$/Qunar/apache-maven" />
       </MavenGeneralSettings>
     </option>
-    <option name="enabledProfiles">
-      <list>
-        <option value="dev" />
-      </list>
-    </option>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
@@ -558,7 +784,7 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="Demo Maven Webapp" />
+          <option name="myItemId" value="hiveDemo" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
@@ -572,7 +798,7 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="Demo Maven Webapp" />
+          <option name="myItemId" value="hiveDemo" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
       </PATH>
@@ -588,9 +814,10 @@
     <option name="jreName" value="#JAVA_INTERNAL" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="131" />
-    <option name="width" value="1366" />
-    <option name="height" value="744" />
+    <option name="x" value="1366" />
+    <option name="y" value="24" />
+    <option name="width" value="1920" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -645,16 +872,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Default">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -683,83 +900,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="trainDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="trainDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="trainDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="trainDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -778,76 +923,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="trainDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jsp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="trainDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="trainDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -870,6 +945,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -900,6 +979,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -937,6 +1020,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="qunar" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -968,6 +1055,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1009,6 +1100,48 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qunar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ssm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trainDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="qunar" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -1043,27 +1176,27 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="qunar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="trainDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="out" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Default">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1088,6 +1221,7 @@
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
     <property name="LayoutCode.rearrangeEntriesXML" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="Joiner&#9;PSI&#9;JAVA://com.google.common.base.Joiner&#10;StringBuilder&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;strings&#9;PSI&#9;JAVA://com.google.common.base.Strings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -1096,28 +1230,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.trainDemo">
-    <configuration default="false" name="Inheriting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Demo.Inheriting" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Demo" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
     <configuration default="false" name="LostMessage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -1209,6 +1321,34 @@
       <module name="" />
       <envs />
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MapReduceDemo$Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.qunar.mapReduce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.qunar.mapReduce.MapReduceDemo$Map" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="hiveDemo" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -1572,19 +1712,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.trainDemo" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Inheriting" />
-      <item index="2" class="java.lang.String" itemvalue="Application.LostMessage" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Calculates" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MapReduceDemo" />
-      <item index="5" class="java.lang.String" itemvalue="Application.JobClient" />
+      <item index="1" class="java.lang.String" itemvalue="Application.LostMessage" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Calculates" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MapReduceDemo" />
+      <item index="4" class="java.lang.String" itemvalue="Application.JobClient" />
+      <item index="5" class="java.lang.String" itemvalue="Application.MapReduceDemo$Map" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MapReduceDemo" />
-        <item index="1" class="java.lang.String" itemvalue="Application.JobClient" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Calculates" />
-        <item index="3" class="java.lang.String" itemvalue="Application.LostMessage" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Inheriting" />
+        <item index="0" class="java.lang.String" itemvalue="Application.MapReduceDemo$Map" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MapReduceDemo" />
+        <item index="2" class="java.lang.String" itemvalue="Application.JobClient" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Calculates" />
+        <item index="4" class="java.lang.String" itemvalue="Application.LostMessage" />
       </list>
     </recent_temporary>
   </component>
@@ -1611,49 +1751,60 @@
       <workItem from="1469412066383" duration="35028000" />
       <workItem from="1469588446093" duration="61213000" />
       <workItem from="1469703590554" duration="4217000" />
-      <workItem from="1469756073458" duration="347000" />
+      <workItem from="1469756073458" duration="12443000" />
+      <workItem from="1470015978319" duration="10265000" />
+      <workItem from="1470102417952" duration="5383000" />
+      <workItem from="1470119117016" duration="1444000" />
+      <workItem from="1470123185812" duration="3436000" />
     </task>
+    <task id="LOCAL-00001" summary="spring+Hbase整合的小案例适合并发">
+      <created>1469758817558</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1469758817558</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="279478000" />
+    <option name="totallyTimeSpent" value="312102000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="131" width="1366" height="744" extended-state="6" />
-    <editor active="false" />
+    <frame x="1366" y="24" width="1920" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872504" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.49923196" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37480798" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872504" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30711043" sideWeight="0.5041322" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.9508448" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49923196" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5545315" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30711043" sideWeight="0.5041322" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37327188" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27760968" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2771855" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872504" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30559757" sideWeight="0.49586776" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35127932" sideWeight="0.49586776" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14330219" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872504" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20801815" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.48694316" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872504" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872504" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11630322" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21198156" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3281412" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3281412" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1672,6 +1823,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="spring+Hbase整合的小案例适合并发" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring+Hbase整合的小案例适合并发" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1724,8 +1877,14 @@
           <properties />
           <option name="timeStamp" value="52" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hiveDemo/src/main/java/com/qunar/mapReduce/MapReduceDemo.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="62" />
+      <option name="time" value="66" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1734,149 +1893,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="504" max-vertical-offset="720">
-          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-hadoop/2.2.0.RELEASE/spring-data-hadoop-2.2.0.RELEASE.jar!/org/springframework/data/hadoop/config/spring-hadoop-2.1.xsd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1439589" vertical-offset="23495" max-vertical-offset="30690">
-          <caret line="1330" column="12" selection-start-line="1330" selection-start-column="12" selection-end-line="1330" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/commons-fileupload/commons-fileupload/1.2/commons-fileupload-1.2.jar!/org/apache/commons/fileupload/FileItemFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.2" vertical-offset="53" max-vertical-offset="270">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.3/mybatis-3.2.3-sources.jar!/org/apache/ibatis/binding/MapperMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="709" max-vertical-offset="5670">
-          <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/3.1.4.RELEASE/spring-core-3.1.4.RELEASE-sources.jar!/org/springframework/core/BridgeMethodResolver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="565" max-vertical-offset="3798">
-          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/3.1.4.RELEASE/spring-core-3.1.4.RELEASE-sources.jar!/org/springframework/core/annotation/AnnotationUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2059" max-vertical-offset="8190">
-          <caret line="142" column="0" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/3.1.4.RELEASE/spring-web-3.1.4.RELEASE-sources.jar!/org/springframework/web/context/request/ServletRequestAttributes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="763" max-vertical-offset="4356">
-          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/3.1.4.RELEASE/spring-web-3.1.4.RELEASE-sources.jar!/org/springframework/web/util/WebUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="6253" max-vertical-offset="12636">
-          <caret line="384" column="0" selection-start-line="384" selection-start-column="0" selection-end-line="384" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/3.1.4.RELEASE/spring-web-3.1.4.RELEASE-sources.jar!/org/springframework/web/context/request/ServletWebRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="943" max-vertical-offset="3042">
-          <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.3/mybatis-3.2.3-sources.jar!/org/apache/ibatis/binding/MapperProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="313" max-vertical-offset="756">
-          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/3.1.4.RELEASE/spring-webmvc-3.1.4.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/annotation/AnnotationMethodHandlerAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.875" vertical-offset="5209" max-vertical-offset="20682">
-          <caret line="435" column="0" selection-start-line="435" selection-start-column="0" selection-end-line="435" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/3.1.4.RELEASE/spring-web-3.1.4.RELEASE-sources.jar!/org/springframework/web/bind/annotation/support/HandlerMethodInvoker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.620283" vertical-offset="1465" max-vertical-offset="14724">
-          <caret line="175" column="0" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/3.1.4.RELEASE/spring-core-3.1.4.RELEASE-sources.jar!/org/springframework/util/Assert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1635" max-vertical-offset="6948">
-          <caret line="113" column="0" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-hadoop-hbase/2.2.0.RELEASE/spring-data-hadoop-hbase-2.2.0.RELEASE-sources.jar!/org/springframework/data/hadoop/hbase/HbaseAccessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="861" max-vertical-offset="1170">
-          <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-hadoop-hbase/2.2.0.RELEASE/spring-data-hadoop-hbase-2.2.0.RELEASE-sources.jar!/org/springframework/data/hadoop/hbase/HbaseTemplate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="807" max-vertical-offset="3726">
-          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-hadoop-hbase/2.2.0.RELEASE/spring-data-hadoop-hbase-2.2.0.RELEASE-sources.jar!/org/springframework/data/hadoop/hbase/HbaseSynchronizationManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="2448">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-hadoop-hbase/2.2.0.RELEASE/spring-data-hadoop-hbase-2.2.0.RELEASE-sources.jar!/org/springframework/data/hadoop/hbase/HbaseUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="825" max-vertical-offset="2016">
-          <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.2.0/hadoop-common-2.2.0-sources.jar!/org/apache/hadoop/conf/Configuration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.2258065" vertical-offset="486" max-vertical-offset="41598">
-          <caret line="162" column="13" selection-start-line="162" selection-start-column="13" selection-end-line="162" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1-sources.jar!/org/apache/commons/logging/LogFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="17007" max-vertical-offset="32148">
-          <caret line="978" column="0" selection-start-line="978" selection-start-column="0" selection-end-line="978" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.0/hadoop-common-2.6.0.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="4376" max-vertical-offset="14364">
-          <caret line="284" column="20" selection-start-line="284" selection-start-column="20" selection-end-line="284" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Java/com/qunar/ssm/service/imp/LogServiceImp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="224" max-vertical-offset="540">
@@ -2122,49 +2138,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576">
           <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/hbase.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="196.6" vertical-offset="7104" max-vertical-offset="8910">
-          <caret line="67" column="27" selection-start-line="67" selection-start-column="27" selection-end-line="67" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources.dev/spring/spring-mybatis.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.36" vertical-offset="907" max-vertical-offset="1368">
-          <caret line="62" column="42" selection-start-line="62" selection-start-column="42" selection-end-line="62" selection-end-column="42" />
-          <folding>
-            <element signature="e#3406#3424#0" expanded="true" />
-            <element signature="e#3462#3480#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="55" max-vertical-offset="1242">
-          <caret line="52" column="20" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2182,18 +2155,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/Demo/js/avalon.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.525" vertical-offset="0" max-vertical-offset="120420">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mvc.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="972" max-vertical-offset="1782">
           <caret line="70" column="55" selection-start-line="70" selection-start-column="52" selection-end-line="70" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2250,24 +2215,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="5572" max-vertical-offset="35604">
           <caret line="379" column="18" selection-start-line="379" selection-start-column="18" selection-end-line="379" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Java/com/qunar/ssm/controll/TmpController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="961" max-vertical-offset="1458">
-          <caret line="73" column="9" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Java/com/qunar/ssm/util/HBaseAccessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="1422">
-          <caret line="32" column="40" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -2275,14 +2222,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="396">
           <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Java/com/qunar/ssm/service/HBaseService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="48" max-vertical-offset="558">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2295,21 +2234,270 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="504" max-vertical-offset="720">
+        <state vertical-scroll-proportion="1.4358975" vertical-offset="0" max-vertical-offset="720">
           <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../flume/src/main/Java/com/qunar/demo/KafkaHBaseConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.6751592" vertical-offset="825" max-vertical-offset="1296">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Demo/Orange.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2955665" vertical-offset="0" max-vertical-offset="609">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/java/jdk1.7.0_40/src.zip!/java/lang/Throwable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="13060" max-vertical-offset="18630">
+          <caret line="788" column="29" selection-start-line="788" selection-start-column="29" selection-end-line="788" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/java/jdk1.7.0_40/src.zip!/java/lang/Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="478" max-vertical-offset="1818">
+          <caret line="65" column="10" selection-start-line="65" selection-start-column="10" selection-end-line="65" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/java/jdk1.7.0_40/src.zip!/java/lang/RuntimeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="406" max-vertical-offset="1728">
+          <caret line="61" column="9" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/java/jdk1.7.0_40/src.zip!/java/lang/IllegalArgumentException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="244" max-vertical-offset="1296">
+          <caret line="52" column="10" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/15.0/guava-15.0-sources.jar!/com/google/common/base/Preconditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1036" max-vertical-offset="7794">
+          <caret line="92" column="32" selection-start-line="92" selection-start-column="32" selection-end-line="92" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#18017#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#11414#11415#0" expanded="false" />
+            <element signature="e#11470#11471#0" expanded="false" />
+            <element signature="e#13474#13475#0" expanded="false" />
+            <element signature="e#13531#13532#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/qunar/guavaDemo/cache/AppContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28938907" vertical-offset="0" max-vertical-offset="622">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/qunar/guavaDemo/cache/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17363344" vertical-offset="0" max-vertical-offset="622">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.0/hadoop-mapreduce-client-core-2.6.0-sources.jar!/org/apache/hadoop/mapred/Mapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9131833" vertical-offset="1430" max-vertical-offset="2592">
+          <caret line="134" column="17" selection-start-line="134" selection-start-column="17" selection-end-line="134" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/java/jdk1.7.0_40/src.zip!/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1260">
+          <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#2299#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.0/hadoop-mapreduce-client-core-2.6.0-sources.jar!/org/apache/hadoop/mapreduce/Reducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1863" max-vertical-offset="2970">
+          <caret line="147" column="67" selection-start-line="146" selection-start-column="11" selection-end-line="147" selection-end-column="67" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.0/hadoop-mapreduce-client-core-2.6.0-sources.jar!/org/apache/hadoop/mapreduce/Job.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1611" max-vertical-offset="26514">
+          <caret line="144" column="30" selection-start-line="144" selection-start-column="26" selection-end-line="144" selection-end-column="30" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#11733#11734#0" expanded="false" />
+            <element signature="e#11763#11764#0" expanded="false" />
+            <element signature="e#14156#14157#0" expanded="false" />
+            <element signature="e#14180#14181#0" expanded="false" />
+            <element signature="e#14276#14277#0" expanded="false" />
+            <element signature="e#14308#14309#0" expanded="false" />
+            <element signature="e#40924#40925#0" expanded="false" />
+            <element signature="e#40956#40957#0" expanded="false" />
+            <element signature="e#49943#49944#0" expanded="false" />
+            <element signature="e#49973#49974#0" expanded="false" />
+            <element signature="e#50162#50163#0" expanded="false" />
+            <element signature="e#50206#50207#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/java/jdk1.7.0_40/src.zip!/java/util/StringTokenizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5056" max-vertical-offset="7308">
+          <caret line="316" column="19" selection-start-line="0" selection-start-column="0" selection-end-line="431" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0-sources.jar!/com/google/common/base/Strings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0295568" vertical-offset="3333" max-vertical-offset="3942">
+          <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/java/jdk1.7.0_40/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4811166" vertical-offset="1687" max-vertical-offset="7200">
+          <caret line="139" column="30" selection-start-line="139" selection-start-column="30" selection-end-line="139" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0-sources.jar!/com/google/common/base/Joiner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32019705" vertical-offset="435" max-vertical-offset="7632">
+          <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiveDemo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1773399" vertical-offset="0" max-vertical-offset="609">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiveDemo/src/main/java/com/qunar/mapReduce/MapReduceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="486" max-vertical-offset="1566">
+          <caret line="27" column="60" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9144">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources.dev/spring/spring-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.96" vertical-offset="202" max-vertical-offset="1368">
+          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hbase.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="934">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/qunar/ssm/util/HBaseAccessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="164" max-vertical-offset="1422">
+          <caret line="32" column="40" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2111#2112#0" expanded="false" />
+            <element signature="e#2182#2183#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/qunar/ssm/dao/LogDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="934">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/qunar/ssm/service/HBaseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="558">
+          <caret line="22" column="64" selection-start-line="19" selection-start-column="0" selection-end-line="22" selection-end-column="64" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Java/com/qunar/ssm/service/imp/HBaseServiceImp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.87323946" vertical-offset="724" max-vertical-offset="1584">
-          <caret line="54" column="48" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2032#2392#0" expanded="true" />
-            <element signature="e#2391#2392#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1476">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-hadoop-hbase/2.2.0.RELEASE/spring-data-hadoop-hbase-2.2.0.RELEASE-sources.jar!/org/springframework/data/hadoop/hbase/HbaseTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="594" max-vertical-offset="3726">
+          <caret line="59" column="59" selection-start-line="59" selection-start-column="59" selection-end-line="59" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1242">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/qunar/ssm/controll/TmpController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.56532663" vertical-offset="54" max-vertical-offset="1206">
+          <caret line="42" column="10" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2378,11 +2566,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring|Demo</last-edited>
+          <last-edited>hiveDemo</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
